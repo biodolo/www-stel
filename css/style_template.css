@@ -376,3 +376,108 @@ div.menu .vocimenu .ultimo_li{
     max-width:200px;
     vertical-align:middle;
 }
+.left-column , .right-column {
+	background-color: white;
+    width:48%;
+    display:inline-block;
+    margin: 0 10px 10px 0;
+}
+
+.left-column {
+    float:left;
+}
+
+.right-column {
+    float:right;
+}
+
+
+.suggerimenti{
+    padding-left:1%;
+    float:left;
+	text-align:center;
+}
+
+.suggerimenti div.slot{
+    margin: 1%;
+    width: 187px;
+    height: 187px;
+    display:inline-block;
+    position:relative;
+}
+
+.suggerimenti div.slot img{
+    max-width: 187px;
+    max-height: 187px;
+}
+
+.suggerimenti div.slot a.overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    display:none;
+    text-align:center;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: rgba(255,255,255,0.75);
+	padding:0;
+}
+
+.suggerimenti div.slot a.overlay span{
+    font-variant: small-caps;
+	margin-top:80px;
+    font-size: 15pt;
+    color: rgb(30, 37, 93);
+	display:block;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+}
+
+.suggerimenti div.slot:hover a.overlay{
+    display:block;
+}
+
+
+.suggestion_dialog{
+	display:none;
+	width: 96%;
+	height: 96%;
+	z-index: 110;
+	position: fixed;
+	top: 2%;
+	left: 2%;
+	border: 2px solid #6B95E0;
+	border-radius: 5px;
+	background-color: white;
+}
+
+.suggestion_dialog .suggestion_content{
+	overflow: auto;
+	padding: 10px;
+	height: 90%;
+}
+
+.suggestion_dialog .suggestion_content h3{
+	padding-left:1em;
+	cursor: pointer;
+}
+
+.suggestion_dialog .suggestion_content h3 + div{
+	display:none;
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid rgb(119, 119, 119);
+    padding: 0px 1em;
+    border-radius: 30px;
+  position: relative;
+}
+
+.suggestion_dialog .suggestion_title{
+	padding:5px;
+	height:1em;
+	border-bottom:1px solid #777;
+}

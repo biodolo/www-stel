@@ -50,7 +50,7 @@
 			</a>
 		</li>
 
-		<li class="ultimo_li">
+		<li>
 			<a href="?area=servizi">
 				Servizi di Assistenza
 			</a>
@@ -74,9 +74,9 @@
 				</ul>
 			</div>
 		</li>
-		<li  class="hidden">
+		<li class="ultimo_li">
 			<a href="?area=suggerimenti">
-				te lo dice il tecnico
+				Te lo dice il tecnico
 			</a>
 		</li>
 	</ul>

@@ -48,7 +48,7 @@
 
 	<div id="sx">
 		<div id="intestazione">
-			<div id="logo"><a href="#" title="logo azienda"><img alt="S.T.EL. SRL - Assistenza tecnica elettrodomestici" src="images/logo.png" style="height: 190px;padding: 5px;background-color: white;border-radius: 20px;border: 2px solid #244F86;margin-left: -7px;"/></a></div>
+			<div id="logo"><a href="/" title="S.T.EL. SRL"><img alt="S.T.EL. SRL - Assistenza tecnica elettrodomestici" src="images/logo.png" style="height: 190px;padding: 5px;background-color: white;border-radius: 20px;border: 2px solid #244F86;margin-left: -7px;"/></a></div>
 <!--			<div id="nomeazienda"><h1>S.T.EL. SRL - Assistenza tecnica elettrodomestici</h1></div> -->
 		<!--chiudo intestazione-->
 		</div><br><br>

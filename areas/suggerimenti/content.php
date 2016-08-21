@@ -12,7 +12,7 @@ che offriamo a tutti coloro che desiderano avere qualità e durata nel tempo dei
 			"id"			=> "lavatrici",
 			"titolo"		=> "LAVATRICI",
 			"immagine"	=> "lavatrice.jpg",
-			"content"		=> "copy of lavatrici.php"
+			"content"		=> "lavatrici.php"
 		],[
 			"id"			=> "asciugatrici",
 			"titolo"		=> "ASCIUGABIANCHERIA",
@@ -102,4 +102,12 @@ $(document).ready(function(){
 		}
 	});
 });
+
+function showModal(dialog_id){
+	$('#'+dialog_id).show();
+}
+
+function hideModal(){
+	$('.suggestion_dialog').hide();
+}
 </script>
