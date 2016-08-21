@@ -1,0 +1,297 @@
+html, body {
+height: 100%;
+} 
+
+body{
+margin:0;
+padding:0;
+background:url(images/top_bg.jpg) repeat-x top #d4ccbd;
+}
+
+h1{
+padding-top:40px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:15px;
+color:#ffffff;
+font-weight:bold;
+letter-spacing:1px;
+}
+
+#bound{
+width:900px;
+margin:0px auto;
+}
+
+#sx{
+width:270px;
+float:left;
+}
+
+#intestazione{
+margin-top:30px;
+height:150px;
+}
+
+#logo{
+width:100px;
+float:left;
+}
+
+#logo a{
+text-decoration:none;
+}
+
+#logo a img{
+border:none;
+}
+
+#nomeazienda{
+width:160px;
+float:left;
+}
+
+#menu{
+background-image:url(images/midmen_bg.jpg);
+background-repeat:repeat-y;
+overflow:hidden;
+}
+
+#topmen{
+margin:0;
+width:250px;
+height:8px;
+background-image:url(images/topmen_bg.jpg);
+background-repeat:no-repeat;
+}
+
+#vocimen ul li{
+list-style-type:none;
+margin-top:10px;
+display:block;
+width:170px;
+height:35px;
+border-bottom:2px solid #ffffff;
+}
+
+#vocimen ul li.ultimo_li{
+list-style-type:none;
+margin-top:10px;
+display:block;
+width:170px;
+height:25px;
+border-bottom:none;
+}
+
+#vocimen ul li a{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#ffffff;
+font-weight:bold;
+letter-spacing:1px;
+text-decoration:none;
+}
+
+#vocimen ul li a:hover{
+color:#000000;
+}
+
+#downmen{
+margin:0;
+width:250px;
+height:8px;
+background-image:url(images/downmen_bg.jpg);
+background-repeat:no-repeat;
+background-position:bottom;
+}
+
+#news{
+margin-top:30px;
+background-image:url(images/midtxt_bg.jpg);
+background-repeat:repeat-y;
+overflow:hidden;
+}
+
+#toptxt{
+margin:0;
+width:250px;
+height:8px;
+background-image:url(images/toptxt_bg.jpg);
+background-repeat:no-repeat;
+}
+
+.vocinews{
+margin:5px auto auto 25px;
+width:200px;
+overflow:hidden;
+border-bottom:1px solid #CCCCCC;
+}
+
+.vocinewslast{
+margin:5px auto auto 25px;
+width:200px;
+overflow:hidden;
+}
+
+h5{
+margin:0px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#cc3333;
+}
+
+#news p{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#666666;
+text-align:justify;
+}
+
+#news a{
+margin-top:0px;
+margin-bottom:4px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#CC9933;
+float:right;
+}
+
+#news a:hover{
+color:#ff6600;
+}
+
+#downtxt{
+margin:0;
+width:250px;
+height:8px;
+background-image:url(images/downtxt_bg.jpg);
+background-repeat:no-repeat;
+background-position:bottom;
+}
+
+#datiazienda{
+margin-top:40px;
+width:250px;
+text-align:center;
+}
+
+#datiazienda p{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#493e2c;
+letter-spacing:1px;
+}
+
+#datiazienda p a{
+text-decoration:none;
+font-weight:bold;
+color:#493e2c;
+}
+
+#datiazienda p a:hover{
+color:#CC0000;
+}
+
+#dx{
+width:630px;
+float:left;
+}
+
+#immagine{
+width:620px;
+height:229px;
+margin:20px auto;
+}
+
+#contieneblocchi{
+margin-left:5px;
+margin-bottom:20px;
+}
+
+#contieneblocchi p{
+line-height:17px;
+}
+
+.blocco{
+width:610px;
+overflow:hidden;
+}
+
+.blocco p{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#333333;
+text-align:justify;
+}
+
+.colorblocco{
+width:610px;
+background-image:url(images/text_bg.jpg);
+background-repeat:repeat-y;
+overflow:hidden;
+}
+
+.colorblocco p{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#ffffff;
+text-align:justify;
+}
+
+.imgblocco{
+width:104px;
+height:104px;
+margin:10px;
+float:left;
+}
+
+.imgblocco a{
+text-decoration:none;
+}
+
+.imgblocco a img{
+border:2px solid #ffffff;
+}
+
+.txtblocco{
+width:470px;
+float:left;
+padding-bottom:10px;
+}
+
+#footer{
+height:120px;
+background-color:#FFFFFF;
+border-top:8px solid #aea093;
+margin:0;
+padding:0;
+clear:both;
+}
+
+#footmen{
+width:900px;
+margin:0px auto;
+}
+
+#footmen ul{
+float:right;
+}
+
+#footmen ul li{
+display:inline;
+list-style-type:none;
+margin-top:10px;
+margin-left:20px;
+width:100px;
+height:25px;
+}
+
+#footmen ul li a{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#CC9933;
+text-decoration:none;
+}
+
+#footmen ul li a:hover{
+color:#ff6600;
+}
