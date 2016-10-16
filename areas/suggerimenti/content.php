@@ -23,41 +23,41 @@ che offriamo a tutti coloro che desiderano avere qualità e durata nel tempo dei
 			"titolo"		=> "LAVASTOVIGLIE",
 			"immagine"	=> "lavastoviglie.jpg",
 			"content"		=> "lavastoviglie.php"
-		],[
-			"id"			=> "frigoriferi",
-			"titolo"		=> "FRIGORIFERI",
-			"immagine"	=> "frigo.jpg",
-			"content"		=> "frigoriferi.php"
-		],[
-			"id"			=> "microonde",
-			"titolo"		=> "MICROONDE",
-			"immagine"	=> "microonde.jpg",
-			"content"		=> "microonde.php"
-		],[
-			"id"			=> "piani-cottura",
-			"titolo"		=> "PIANI COTTURA",
-			"immagine"	=> "piano cottura.jpg",
-			"content"		=> "piani-cottura.php"
-		],[
-			"id"			=> "forni",
-			"titolo"		=> "FORNI",
-			"immagine"	=> "forno.jpg",
-			"content"		=> "forni.php"
-		],[
-			"id"			=> "piccoli-elettrodomestici",
-			"titolo"		=> "MACCHINE PER IL CAFFE'",
-			"immagine"	=> "macchina da caffe.jpg",
-			"content"		=> "piccoli-elettrodomestici.php"
-		],[
-			"id"			=> "aspirapolveri",
-			"titolo"		=> "LINEA PULIZIA",
-			"immagine"	=> "aspirapolvere.jpg",
-			"content"		=> "aspirapolveri.php"
-		],[
-			"id"			=> "climatizzatori",
-			"titolo"		=> "CLIMATIZZATORI",
-			"immagine"	=> "climatizzatore.jpg",
-			"content"		=> "climatizzatori.php"
+		// ],[
+			// "id"			=> "frigoriferi",
+			// "titolo"		=> "FRIGORIFERI",
+			// "immagine"	=> "frigo.jpg",
+			// "content"		=> "frigoriferi.php"
+		// ],[
+			// "id"			=> "microonde",
+			// "titolo"		=> "MICROONDE",
+			// "immagine"	=> "microonde.jpg",
+			// "content"		=> "microonde.php"
+		// ],[
+			// "id"			=> "piani-cottura",
+			// "titolo"		=> "PIANI COTTURA",
+			// "immagine"	=> "piano cottura.jpg",
+			// "content"		=> "piani-cottura.php"
+		// ],[
+			// "id"			=> "forni",
+			// "titolo"		=> "FORNI",
+			// "immagine"	=> "forno.jpg",
+			// "content"		=> "forni.php"
+		// ],[
+			// "id"			=> "piccoli-elettrodomestici",
+			// "titolo"		=> "MACCHINE PER IL CAFFE'",
+			// "immagine"	=> "macchina da caffe.jpg",
+			// "content"		=> "piccoli-elettrodomestici.php"
+		// ],[
+			// "id"			=> "aspirapolveri",
+			// "titolo"		=> "LINEA PULIZIA",
+			// "immagine"	=> "aspirapolvere.jpg",
+			// "content"		=> "aspirapolveri.php"
+		// ],[
+			// "id"			=> "climatizzatori",
+			// "titolo"		=> "CLIMATIZZATORI",
+			// "immagine"	=> "climatizzatore.jpg",
+			// "content"		=> "climatizzatori.php"
 		]
 	];
 ?>

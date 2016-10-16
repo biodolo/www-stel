@@ -6,7 +6,7 @@
 		</div>		
         <a id="promo-dialog-link" href="javascript:void(0);" target="_blank"><img id="promo-dialog-image" src="javascript:void(0);" style="margin: 1%;width: 98%;"></a>
 	</div>
-	<script type="text/javascript" style="display:none;">
+	<script type="text/javascript">
         var immagine="promo_home.png";
         var titolo_promozione="Promozione Caffitaly";
         var promozione=true;
