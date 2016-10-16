@@ -1,12 +1,12 @@
 <h1> CENTRO ASSISTENZA AUTORIZZATO</h1>
 
-<p>Per l'assistenza, l'installazione e la vendita, su ordinazione, dei prodotti di <a href="http://www.electrolux-rex.it/" target="_blank">Electrolux-Rex.</a></p>
+<p>Per l'assistenza, l'installazione e la vendita su ordinazione, di grandi e piccoli elettrodomestici e condizionatori.</p>
 
 <P>
 S.T.EL. Srl &egrave; centro assistenza autorizzato per diverse marche di elettrodomestici.
 </p>
 <p>
-Per ognuna di esse si occupa della riparazione di lavatrici, lavastoviglie, frigoriferi, congelatori, forni e piani cottura da incasso, condizionatori e cappe aspiranti e filtranti e piccoli elettrodomestici.</p>
+Per ognuna di esse si occupa della riparazione di lavatrici, lavastoviglie, frigoriferi, congelatori, forni e piani cottura da incasso, condizionatori e cappe aspiranti e filtranti, stufe da riscaldamento a gas e pellet e piccoli elettrodomestici.</p>
 <p> Sono diversi i marchi che si fidano della nostra competenza e ci hanno scelti quale loro centro autorizzato all'assistenza.</p>
 <div class="logo-group" style="text-align:center">
     <a href="http://www.electrolux-rex.it/" target="_blank"><img src="images/marchi/electrolux-rex.png"></a>
