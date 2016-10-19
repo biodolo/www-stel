@@ -77,38 +77,12 @@
 	</p>
 </div>
 
-<h3>GUARNIZIONE</h3>
+<h3>MALFUNZIONAMENTI</h3>
 <div>
 	<br>
-	<b>La guarnizione è sporca</b>
+	<b>UNO</b>
 	<p>
-		I costanti lavaggi a temperature basse nonché l'uso eccessivo di detersivi liquidi (a base di enzimi) possono causare la formazione di morchia e residui gelatinosi sulla guarnizione dell'oblò, sui tubi e sul cestello.
 		<br>
-		I tubi si ostruiscono e nella lavatrice si sviluppano cattivi odori che possono persino lasciare residui sul bucato.
-		<br>
-		La causa potrebbe essere l'uso di eccessivo detersivo o lavaggi regolari a basse temperature.
-		<br>
-		Se si effettuano soltanto lavaggi a massimo 40 °C, col tempo si formerà un accumulo di residui di detersivo e sporco nella lavatrice.
-		<br>
-		Questo fenomeno può essere la causa di sporcizia, macchie o grasso sulla guarnizione.
-	</p>
-	<p>
-		Per risolvere il problema, avviare una serie di cicli di lavaggio a 90 °C, senza biancheria aggiungendo una tazza di carbonato di sodio (il carbonato di sodio può irritare la pelle e le mucose utilizzarlo quindi con estrema cautela!) al cestello per pulire la guarnizione.
-		<br>
-		Suggeriamo inoltre di pulire regolarmente la guarnizione dello sportello per evitare gli accumuli di sporcizia e di lasciare lo sportello leggermente aperto alla fine del programma.
-		<br>
-		<i>Se il problema non si risolve &egrave; possibile utilizzare il nostro detergente Electrolux specifico per lavatrici: SUPER CLEAN.</i>
-	</p>
-	<br>
-	<b>La guarnizione si &egrave; allentata, attorcigliata e perde</b>
-	<p>
-		Una guarnizione allentata, danneggiata o deformata deve essere riparata o sostituita da un tecnico autorizzato, in quanto potrebbe comportare delle perdite.
-	</p>
-	<p>
-		Consigliamo di non utilizzare l'apparecchiatura fino a quando il problema non sia stato risolto.
-	</p>
-	<p>
-		Normalmente i danni alla guarnizione dello sportello sono causati da un sovraccarico della macchina o quando all'inizio di un programma di lavaggio i capi rimangono agganciati tra la guarnizione e lo sportello
 	</p>
 	<p>
 		<i>Per determinare l'esatta natura del problema, è opportuno che uno dei nostri tecnici venga ad ispezionare la macchina a domicilio.</i>
