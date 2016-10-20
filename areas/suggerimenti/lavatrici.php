@@ -2,52 +2,31 @@
 <div>
 	<br>
 	<b>La maniglia è guasta</b>
-	<p>
-		Quando un programma si &egrave; appena concluso, tirando la maniglia questa può sembrare guasta in quanto non è possibile aprire lo sportello.
-	<p>
-		Si tratta di una caratteristica standard di sicurezza della serratura, la quale si sblocca dopo 2-5 minuti.
-	</p>
-	<p>
-		Se dopo 2-5 minuti la maniglia non permette l'apertura, controllare l'eventuale presenza di danni visibili su una delle parti della maniglia.
-	</p>
-	<p>
-		Alcuni modelli di lavatrice non consentono l'apertura dell'oblò se non avviene lo scarico completo dell'acqua.
-	</p>
-	<p>
-		<i> Se non &egrave; possibile scaricare l'acqua oppure se sono presenti danni alla maniglia, richiedere l'intervento di un tecnico che venga a risolvere il problema a domicilio. </i>
-	</p>
+	<p>Quando un programma si &egrave; appena concluso, tirando la maniglia questa può sembrare guasta in quanto non è possibile aprire lo sportello.</p>
+	<p>Si tratta di una caratteristica standard di sicurezza della serratura, la quale si sblocca dopo 2-5 minuti.</p>
+	<p>Se dopo 2-5 minuti la maniglia non permette l'apertura, controllare l'eventuale presenza di danni visibili su una delle parti della maniglia.</p>
+	<p>Alcuni modelli di lavatrice non consentono l'apertura dell'oblò se non avviene lo scarico completo dell'acqua.</p>
+	<p><i> Se non &egrave; possibile scaricare l'acqua oppure se sono presenti danni alla maniglia, richiedere l'intervento di un tecnico che venga a risolvere il problema a domicilio. </i></p>
 	<br>
 	<b>Lo sportello non si apre</b>
-	<p>
-		La serratura si sblocca dopo 2-5 minuti dal termine del ciclo.
-	<p>
-		Alcuni modelli di lavatrice non consentono l'apertura dell'oblò se non avviene lo scarico completo dell'acqua; se il ciclo di lavaggio &egrave; stato interrotto prima del termine provvedere allo scarico manuale dell'acqua ed attendere 2 – 5 minuti prima di aprire.
-	</p>
-	<p>
-		<i> Se non &egrave; possibile scaricare l'acqua oppure se sono presenti danni alla maniglia, richiedere l'intervento di un tecnico che venga a risolvere il problema a domicilio. </i>
-	</p>
+	<p>La serratura si sblocca dopo 2-5 minuti dal termine del ciclo.</p>
+	<p>Alcuni modelli di lavatrice non consentono l'apertura dell'oblò se non avviene lo scarico completo dell'acqua; se il ciclo di lavaggio &egrave; stato interrotto prima del termine provvedere allo scarico manuale dell'acqua ed attendere 2 – 5 minuti prima di aprire.</p>
+	<p><i> Se non &egrave; possibile scaricare l'acqua oppure se sono presenti danni alla maniglia, richiedere l'intervento di un tecnico che venga a risolvere il problema a domicilio. </i></p>
 	<br>
 	<b>Lo sportello si apre durante l'esecuzione di un programma</b>
-	<p>
-		Il coperchio può essere aperto senza problemi subito all'inizio di un programma di lavaggio premendo semplicemente il pulsante di avvio/pausa.
-	<p>
-		Se &egrave; possibile aprire lo sportello dopo che la lavatrice ha finito di caricare l'acqua o durante i cicli di lavaggio o di centrifuga, scollegare immediatamente l'apparecchiatura dalla rete elettrica e non utilizzarla fino a quando un tecnico non l'abbia ispezionata.
-	</p>
+	<p>Il coperchio può essere aperto senza problemi subito all'inizio di un programma di lavaggio premendo semplicemente il pulsante di avvio/pausa.</p>
+	<p>Se &egrave; possibile aprire lo sportello dopo che la lavatrice ha finito di caricare l'acqua o durante i cicli di lavaggio o di centrifuga, scollegare immediatamente l'apparecchiatura dalla rete elettrica e non utilizzarla fino a quando un tecnico non l'abbia ispezionata.</p>
 	<br>
 	<b>Tra lo sportello e la guarnizione &egrave; rimasta impigliata della biancheria</b>
-	<p>
-		Chiudendo lo sportello della lavatrice, assicurarsi che non vi sia della biancheria impigliata tra la guarnizione e lo sportello.
-	<p>
-		Come conseguenza di un lembo di guarnizione attorcigliata vi &egrave; il rischio di perdite d'acqua!
-	</p>
+	<p>Chiudendo lo sportello della lavatrice, assicurarsi che non vi sia della biancheria impigliata tra la guarnizione e lo sportello.</p>
+	<p>Come conseguenza di un lembo di guarnizione attorcigliata vi &egrave; il rischio di perdite d'acqua!</p>
 </div>
 
 <h3>GUARNIZIONE</h3>
 <div>
 	<br>
 	<b>La guarnizione è sporca</b>
-	<p>
-		I costanti lavaggi a temperature basse nonché l'uso eccessivo di detersivi liquidi (a base di enzimi) possono causare la formazione di morchia e residui gelatinosi sulla guarnizione dell'oblò, sui tubi e sul cestello.
+	<p>I costanti lavaggi a temperature basse nonché l'uso eccessivo di detersivi liquidi (a base di enzimi) possono causare la formazione di morchia e residui gelatinosi sulla guarnizione dell'oblò, sui tubi e sul cestello.
 		<br>
 		I tubi si ostruiscono e nella lavatrice si sviluppano cattivi odori che possono persino lasciare residui sul bucato.
 		<br>
@@ -66,60 +45,32 @@
 	</p>
 	<br>
 	<b>La guarnizione si &egrave; allentata, attorcigliata e perde</b>
-	<p>
-		Una guarnizione allentata, danneggiata o deformata deve essere riparata o sostituita da un tecnico autorizzato, in quanto potrebbe comportare delle perdite.
-	</p>
-	<p>
-		Consigliamo di non utilizzare l'apparecchiatura fino a quando il problema non sia stato risolto.
-	</p>
-	<p>
-		Normalmente i danni alla guarnizione dello sportello sono causati da un sovraccarico della macchina o quando all'inizio di un programma di lavaggio i capi rimangono agganciati tra la guarnizione e lo sportello
-	</p>
-	<p>
-		<i>Per determinare l'esatta natura del problema, è opportuno che uno dei nostri tecnici venga ad ispezionare la macchina a domicilio.</i>
-	</p>
+	<p>Una guarnizione allentata, danneggiata o deformata deve essere riparata o sostituita da un tecnico autorizzato, in quanto potrebbe comportare delle perdite.</p>
+	<p>Consigliamo di non utilizzare l'apparecchiatura fino a quando il problema non sia stato risolto.</p>
+	<p>Normalmente i danni alla guarnizione dello sportello sono causati da un sovraccarico della macchina o quando all'inizio di un programma di lavaggio i capi rimangono agganciati tra la guarnizione e lo sportello</p>
+	<p><i>Per determinare l'esatta natura del problema, è opportuno che uno dei nostri tecnici venga ad ispezionare la macchina a domicilio.</i></p>
 </div>
 
 <h3>MALFUNZIONAMENTI</h3>
 <div>
 	<br>
 	<b>Sul display della lavatrice viene visualizzato l'errore E20</b>
-	<p>
-		L'errore E20 indica che la lavatrice non ha scaricato l'acqua. Il filtro sporco, o la presenza di corpi estranei, può impedire lo scarico.
-	</p>
-	<p>
-		Seguendo le indicazioni riportate sul libretto istruzioni provvedere alla pulizia del filtro. Se la lavatrice scarica direttamente a muro, smontare e pulire a fondo il raccordo di scarico a muro.
-	</p>
-	<p>
-		<i>e il problema persiste richiedere l'intervento di un tecnico. </i>
-	</p>
+	<p>L'errore E20 indica che la lavatrice non ha scaricato l'acqua. Il filtro sporco, o la presenza di corpi estranei, può impedire lo scarico.</p>
+	<p>Seguendo le indicazioni riportate sul libretto istruzioni provvedere alla pulizia del filtro. Se la lavatrice scarica direttamente a muro, smontare e pulire a fondo il raccordo di scarico a muro.</p>
+	<p><i>e il problema persiste richiedere l'intervento di un tecnico. </i></p>
 	<br>
 	<b>Sul display della lavatrice viene visualizzato l'errore E40</b>
-	<p>
-		L'oblò della lavatrice non è ben chiuso, aprire e richiudere l'oblò dopo aver verificato che un carico eccessivo non ne impedisca la completa chiusura.
-	</p>
-	<p>
-		<i>Se il problema persiste richiedere l'intervento di un tecnico. </i>
-	</p>
+	<p>L'oblò della lavatrice non è ben chiuso, aprire e richiudere l'oblò dopo aver verificato che un carico eccessivo non ne impedisca la completa chiusura.</p>
+	<p><i>Se il problema persiste richiedere l'intervento di un tecnico. </i></p>
 	<br>
 	<b>Sul display della lavatrice viene visualizzato l'errore EF0</b>
-	<p>
-		Il detersivo utilizzato potrebbe aver prodotto schiuma in eccesso che la lavatrice non riesce ad espellere.
-	</p>
-	<p>
-		Accertarsi che il detersivo usato sia idoneo per lavatrice e provare ad effettuare un nuovo lavaggio utilizzando metà della quantità raccomandata di detersivo.
-	</p>
+	<p>Il detersivo utilizzato potrebbe aver prodotto schiuma in eccesso che la lavatrice non riesce ad espellere.</p>
+	<p>Accertarsi che il detersivo usato sia idoneo per lavatrice e provare ad effettuare un nuovo lavaggio utilizzando metà della quantità raccomandata di detersivo.</p>
 	<br>
 	<b>Sul display della lavatrice lampeggia una spia</b>
-	<p>
-		Il LED può stare ad indicare che lo sportello è aperto o che il pulsante di avvio non è stato premuto.
-	</p>
-	<p>
-		Innanzitutto effettuare queste verifiche. Se si tratta di un errore, il relativo significato è riportato nel manuale delle istruzioni.
-	</p>
-	<p>
-		<i>Se il problema persiste  per determinare l'esatta natura del problema, è opportuno che uno dei nostri tecnici autorizzati venga ad ispezionare la macchina a domicilio </i>
-	</p>
+	<p>Il LED può stare ad indicare che lo sportello è aperto o che il pulsante di avvio non è stato premuto.</p>
+	<p>Innanzitutto effettuare queste verifiche. Se si tratta di un errore, il relativo significato è riportato nel manuale delle istruzioni.</p>
+	<p><i>Se il problema persiste  per determinare l'esatta natura del problema, è opportuno che uno dei nostri tecnici autorizzati venga ad ispezionare la macchina a domicilio </i></p>
 	<br>
 	<b>Il display della lavatrice non &egrave; leggibile</b>
 	<p>
@@ -127,9 +78,7 @@
 		La regolazione della luminosità e del contrasto del display possono inoltre avere un effetto sulla sua leggibilità.
 		Se la lavatrice è dotata della funzione di regolazione della luminosità e del contrasto, è possibile trovare ulteriori informazioni nel manuale delle istruzioni.
 	</p>
-	<p>
-		<i>Se quanto detto sopra non risolve il problema, è possibile richiedere l'intervento di un tecnico.</i>
-	</p>
+	<p><i>Se quanto detto sopra non risolve il problema, è possibile richiedere l'intervento di un tecnico.</i></p>
 	<br>
 	<b>La lavatrice ha strappato i capi</b>
 	<p>
@@ -138,12 +87,8 @@
 		È possibile che l'apparecchiatura sia stata sovraccaricata? I bottoni e le cerniere sono stati chiusi durante il lavaggio?
 		Sono visibili dei corpi estranei nella guarnizione dello sportello? Sono presenti segni di danneggiamento nel cestello?
 	</p>
-	<p>
-		<i>Per ulteriore assistenza e per determinare l'esatta natura del problema, è opportuno che uno dei nostri tecnici autorizzati venga ad ispezionare la macchina a domicilio </i>
-	</p>
-	<p>
-		La lavatrice fa rumore - si muove e vibra durante la centrifuga
-	</p>
+	<p><i>Per ulteriore assistenza e per determinare l'esatta natura del problema, è opportuno che uno dei nostri tecnici autorizzati venga ad ispezionare la macchina a domicilio </i></p>
+	<p>La lavatrice fa rumore - si muove e vibra durante la centrifuga</p>
 	<p>
 		<ol>
 			<li>
@@ -170,7 +115,7 @@
 		</ol>
 	</p>
 	<p>
-		vIL PROGRAMMA DI LAVAGGIO DELLA LAVATRICE DURA TROPPO A LUNGO
+		IL PROGRAMMA DI LAVAGGIO DELLA LAVATRICE DURA TROPPO A LUNGO
 	</p>
 	<p>
 		Un carico di biancheria sbilanciato aumenta la durata del programma. Non si tratta di un'anomalia della lavatrice. La lavatrice calcola il tempo in base al carico di biancheria e il display ne visualizza una stima. L'aumento graduale della durata del programma riduce il consumo di energia. La fase di riscaldamento ottimizzata permette di risparmiare energia e, la durata più lunga, garantisce gli stessi risultati di lavaggio (soprattutto in caso di sporco normale). Se nessuna delle situazioni di cui sopra chiarisce il problema, e se si ha accesso alla presa, eseguire un reset della lavatrice staccando la spina, attendere 30 secondi quindi ricollegarla.
@@ -179,7 +124,7 @@
 		<i>Se il problema persiste, si consiglia l'intervento di uno dei nostri tecnici autorizzati</i>
 	</p>
 	<p>
-		vLA LAVATRICE NON SCALDA E NON COMPAIONO CODICI DI ERRORE
+		LA LAVATRICE NON SCALDA E NON COMPAIONO CODICI DI ERRORE
 	</p>
 	<p>
 		L'elettronica dell'apparecchiatura è in grado di riconoscere un guasto della resistenza e di produrre il relativo codice di errore.In caso contrario, il problema potrebbe essere facilmente risolvibile. Seguire le istruzioni seguenti per capire se i suggerimenti forniti aiutano a risolvere il problema.
@@ -324,45 +269,47 @@
 			Per ulteriore assistenza fare riferimento al manuale delle istruzioni; invece, per i prodotti di pulizia raccomandati visitare il nostro negozio.
 		</p>
 	</div>
-	<p>
-		<b>Come rimuovere il calcare dalla mia macchina?</b>
-		<br>
-	<p>
-		L'interno del cestello della macchina può sembrare bello lucido, ma spesso, sulla parte posteriore non immediatamente visibile, può depositarsi del calcare.
-	</p>
-	<p>
-		Il calcare depositato sulla resistenza della macchina può compromettere l'apparecchiatura in vari modi:
-		<ul>
-			<li>
-				I tempi per il riscaldamento dell'acqua aumentano.
-			</li>
-			<li>
-				Il consumo di corrente aumenta.
-			</li>
-			<li>
-				La durata della resistenza si riduce notevolmente e, al peggio, pu&oacute; bruciarsi.
-			</li>
-			<li>
-				I cuscinetti principali della macchina potrebbero danneggiarsi
-			</li>
-		</ul>
-		<br>
-	</p>
-	<p>
-		Il calcare è causato dalla "durezza" dell'acqua. Più è dura l'acqua, più è probabile che la macchina accumuli calcare. La durezza dell'acqua varia da zona a zona.
-	</p>
-	<p>
-		Questo accade perché le varie zone ricevono acqua da diverse sorgenti idriche, in funzione del consumo di corrente. Visitare il sito web del proprio ente locale di fornitura di servizi idrici per verificare l'attuale durezza dell'acqua presso la propria abitazione. Si consiglia di utilizzare l'anticalcare Electrolux. Insieme al prodotto vengono fornite le istruzioni per il dosaggio e il manuale delle istruzioni.
-	</p>	
-	<div class="left-box">
-		<img src="areas/suggerimenti/descaler.jpg"/>
-		<div class="text-box">
+	<div>
+		<p>
+			<b>Come rimuovere il calcare dalla mia macchina?</b>
 			<br>
-			<p>
-				Rimuove il calcare per consentire alla lavatrice e alla lavastoviglie di funzionare come se fossero nuove.
-				<br>
-				Questo decalcificante è ideale per le zone in cui l'acqua è più dura, dato che consente di rimuovere il depositi di calcare: ciò consente di aumentare la durata di vita dell'apparecchiatura evitando la formazione di cattivi odori.
-				<br>
-				Offre prestazioni ottimali e riduce il consumo energetico: mantenendo puliti i tubi e il cestello vengono garantiti dei risultati di lavaggio ottimali con un consumo minimo di energia, ciclo dopo ciclo.
-			</p>
+		<p>
+			L'interno del cestello della macchina può sembrare bello lucido, ma spesso, sulla parte posteriore non immediatamente visibile, può depositarsi del calcare.
+		</p>
+		<p>
+			Il calcare depositato sulla resistenza della macchina può compromettere l'apparecchiatura in vari modi:
+			<ul>
+				<li>
+					I tempi per il riscaldamento dell'acqua aumentano.
+				</li>
+				<li>
+					Il consumo di corrente aumenta.
+				</li>
+				<li>
+					La durata della resistenza si riduce notevolmente e, al peggio, pu&oacute; bruciarsi.
+				</li>
+				<li>
+					I cuscinetti principali della macchina potrebbero danneggiarsi
+				</li>
+			</ul>
+			<br>
+		</p>
+		<p>
+			Il calcare è causato dalla "durezza" dell'acqua. Più è dura l'acqua, più è probabile che la macchina accumuli calcare. La durezza dell'acqua varia da zona a zona.
+		</p>
+			Questo accade perché le varie zone ricevono acqua da diverse sorgenti idriche, in funzione del consumo di corrente. Visitare il sito web del proprio ente locale di fornitura di servizi idrici per verificare l'attuale durezza dell'acqua presso la propria abitazione. Si consiglia di utilizzare l'anticalcare Electrolux. Insieme al prodotto vengono fornite le istruzioni per il dosaggio e il manuale delle istruzioni.
+			<div class="left-box">
+				<img src="areas/suggerimenti/descaler.jpg"/>
+				<div class="text-box">
+					<br>
+					<p>
+						Rimuove il calcare per consentire alla lavatrice e alla lavastoviglie di funzionare come se fossero nuove.
+						<br>
+						Questo decalcificante è ideale per le zone in cui l'acqua è più dura, dato che consente di rimuovere il depositi di calcare: ciò consente di aumentare la durata di vita dell'apparecchiatura evitando la formazione di cattivi odori.
+						<br>
+						Offre prestazioni ottimali e riduce il consumo energetico: mantenendo puliti i tubi e il cestello vengono garantiti dei risultati di lavaggio ottimali con un consumo minimo di energia, ciclo dopo ciclo.
+					</p>
+				</div>
+	</div>
+</div>
 </div>
