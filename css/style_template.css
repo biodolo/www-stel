@@ -322,7 +322,7 @@ figcaption {
 
 .submenu {
 	position: absolute;
-	left: 12em;
+	left: 14em;
 	top: 0em;
 	z-index: 2;
 	display: none;
@@ -339,6 +339,7 @@ ul.vocimenu > li:hover .submenu {
 div.left-box, div.right-box{
 	float:left;
 	margin: 2em 0;
+	width:99%;
 }
 
 div.left-box div.text-box{

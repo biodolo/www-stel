@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+	<product>
+		<image>borbone-blu.png</image>
+		<title></title>
+		<description>Dal gusto equilibrato e rotondo: corposa, cremosa ed allo stesso tempo perfettamente tostata e dosata per darti un caffè unico, morbido e così buono che dopo averlo assaggiato avresti voglia di consigliarlo al tuo bar di fiducia.</description>
+		<code>borbone</code>
+	</product>
+	<product>
+		<image>borbone-rosso.png</image>
+		<title></title>
+		<description>Forte, decisa, corposa e dal gusto netto, giusta per darvi una carica di energia.</description>
+		<code>borbone</code>
+	</product>
+	<product>
+		<image>gimoka-intenso.jpg</image>
+		<title></title>
+		<description>Confezione da 70 capsule di caffè GIMOKA miscela intenso miscela 60% Arabica 40 % Robusta, gusto intenso, cremoso e denso</description>
+		<code>gimoka</code>
+	</product>
+	<product>
+		<image>gimoka-deca.jpg</image>
+		<title></title>
+		<description>Confezione da 70 capsule di caffè GIMOKA decaffeinato 100% Arabica</description>
+		<code>gimoka</code>
+	</product>
+	<product>
+		<image>gimoka-tea.jpg</image>
+		<title></title>
+		<description>Confezione da 70 capsule di thè GIMOKA al limone</description>
+		<code>gimoka</code>
+	</product>
+	<product>
+		<image>lacompatibile-orodinapoli.png</image>
+		<title></title>
+		<description>Confezione da 100 capsule dell’indiscussa miscela tosta, come a Napoli sanno fare: 100% robusta, tostatura forte, massima concentrazione di caffeina per un caffè tanto scuro quanto forte. </description>
+		<code>lacompatibile</code>
+	</product>
+	<product>
+		<image>lacompatibile-deca.png</image>
+		<title></title>
+		<description>Confezione da 100 capsule di un decaffeinato corposo e intenso, creato appositamente per chi non vuole rinunciare al piacere di un ottimo caffè espresso italiano da gustare in ogni momento della giornata. </description>
+		<code>lacompatibile</code>
+	</product>
+		<product>
+		<image>lacompatibile-cioccolato.png</image>
+		<title></title>
+		<description>Confezione da 30 capsule di ottima mini bevanda al gusto di cioccolato, già zuccherata.</description>
+		<code>lacompatibile</code>
+	</product>
+	<product>
+		<image>lacompatibile-ginseng.png</image>
+		<title></title>
+		<description>Confezione da 30 capsule di caffè con all’interno il miglior estratto della radice del Ginseng, ideale per prolungare gli effetti energetici del caffè.</description>
+		<code>lacompatibile</code>
+	</product>
+	<product>
+		<image>lacompatibile-orzo.png</image>
+		<title></title>
+		<description>Confezione da 30 capsule del più denso e corposo caffè d'orzo dal sapore unico, senza grassi idrogenati e senza zucchero.</description>
+		<code>lacompatibile</code>
+	</product>
+</products> 

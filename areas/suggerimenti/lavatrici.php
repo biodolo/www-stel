@@ -298,16 +298,32 @@
 		Spesso le lavatrici presentano una finitura esterna smaltata. La soluzione migliore è utilizzare un panno umido o imbevuto di detergente universale delicato o di sapone per i piatti. Pulire delicatamente la superficie esterna della lavatrice. È possibile riscontrare la formazione di evidenti macchie appiccicose che i pelucchi e i residui di sapone per bucato hanno formato sulla lavatrice. Di solito, un panno imbevuto di acqua tiepida è sufficiente per pulire l'intera zona. Per la pulizia degli angoli e degli spigoli, procedere con un cotton fioc.
 	</p>
 	<br>
-	<b><i>NON UTILIZZARE PRODOTTI ABRASIVI.</i></b>
+	<div class="left-box">
+		<img src="areas/suggerimenti/cleancare.jpg"/>
+		<div class="text-box">
+			<p>
+				<br>
+				I costanti lavaggi a temperature basse nonché il crescente uso di detergenti liquidi (a base di enzimi) può causare la formazione di morchia e residui gelatinosi sulla guarnizione dell'oblò, sui tubi e sul cestello. I tubi si ostruiscono, e si sviluppano cattivi odori che possono persino lasciare residui sul vostro bucato.
+				<br>
+				Questo kit rimuove tutte le sostanze residue, lasciando pulite tutte le componenti della lavatrice e garantendo condizioni di pulizia ottimali.
+				<br>
+				Questa confezione consente di effettuare 2 applicazioni.
+			</p>
+		</div>
+	</div>
+	<p>Tenete la vostra lavatrice pulita e fresca come se fosse nuova.</p>
 </div>
 
 <h3> PROBLEMI RELATIVI AL CALCARE</h3>
 <div>
-	<p>Se a causa dell'acqua dura si forma del calcare, una buona soluzione sarebbe aggiungere dell' anticalcare al detersivo per lavatrice oppure installare un dispositivo anticalcare magnetico come il nostro prodotto NEOCAL. </p>
+	<p>
+		Se a causa dell'acqua dura si forma del calcare, una buona soluzione sarebbe aggiungere dell' anticalcare al detersivo per lavatrice oppure installare un dispositivo anticalcare magnetico come il nostro prodotto NEOCAL.
+	</p>
 	<div class="left-box">
 		<img src="areas/suggerimenti/neocal.jpg"/>
 		<div class="text-box">
-			<p><br>
+			<p>
+				<br>
 				Dispositivo Universale Anticalcare ai magneti permanenti al NEODIMIO, da applicare al rubinetto della lavatrice o Lavastoviglie.
 				<br>
 				Riduce il rischio di incrostazioni assicurando una maggiore durata dell'elettrodomestico.
@@ -361,5 +377,7 @@
 			</p>
 		</div>
 	</div>
-	<p>Questo accade perché le varie zone ricevono acqua da diverse sorgenti idriche, in funzione del consumo di corrente. Visitare il sito web del proprio ente locale di fornitura di servizi idrici per verificare l'attuale durezza dell'acqua presso la propria abitazione. Si consiglia di utilizzare l'anticalcare Electrolux. Insieme al prodotto vengono fornite le istruzioni per il dosaggio e il manuale delle istruzioni.</p>
+	<p>
+		Questo accade perché le varie zone ricevono acqua da diverse sorgenti idriche, in funzione del consumo di corrente. Visitare il sito web del proprio ente locale di fornitura di servizi idrici per verificare l'attuale durezza dell'acqua presso la propria abitazione. Si consiglia di utilizzare l'anticalcare Electrolux. Insieme al prodotto vengono fornite le istruzioni per il dosaggio e il manuale delle istruzioni.
+	</p>
 </div>
