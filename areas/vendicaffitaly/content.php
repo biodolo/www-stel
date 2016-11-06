@@ -5,8 +5,8 @@ Tante differenti miscele di caff&egrave; selezionate tra le tipologie pi&ugrave;
 </p>
 
 <img code="ecaffe" src="<?php echo $base; ?>images/ecaffe.jpg" style="float:right;margin-right:2em;">
-<img code="caffita" src="<?php echo $base; ?>images/cuba.jpg" style="float:left;">
-<img code="cagliari" src="<?php echo $base; ?>images/cagliaricaffe.jpg" style="float:right;margin-right:5em;">
+<img code="caffita" src="<?php echo $base; ?>images/caffcuba.jpg" style="float:left;">
+<img code="cagliari" src="<?php echo $base; ?>images/cagliari.jpg" style="float:right;margin-right:5em;">
 <img code="chiccodoro" src="<?php echo $base; ?>images/chiccodoro.jpg" style="float:left;">
 
 <span style="clear:both"/>

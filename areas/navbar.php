@@ -17,18 +17,17 @@
 			<div class="menu , submenu">
 				<ul class="vocimenu">
 					<li>
-						<a href="?area=caffitaly"> CAFFITALY </a>
+						<a href="?area=caffitaly"> Caffitaly </a>
 					</li>
 					<li>
-						<a href="?area=vendicaffitaly"> IL CAFFE' CAFFITALY </a>
+						<a href="?area=vendicaffitaly"> Il caff&eacute; Caffitaly </a>
 					</li>
 					<li>
-						<a href="?area=amodomio"> LAVAZZA A MODO MIO </a>
+						<a href="?area=amodomio"> Lavazza A Modo Mio </a>
 					</li>
 					<li>
-						<a href="?area=vendiamodomio"> IL CAFF&EGRAVE; COMPATIBILE A MODO MIO </a>
+						<a href="?area=vendiamodomio"> Il caff&eacute; compatibile A Modo Mio </a>
 					</li>
-
 				</ul>
 			</div>
 		</li>
@@ -41,6 +40,16 @@
 
 		<li>
 			<a href="?area=servizi"> Servizi di Assistenza </a>
+						<div class="menu , submenu">
+				<ul class="vocimenu">
+					<li>
+						<a href="?area=caffitaly"> Assistenza a domicilio </a>
+					</li>
+					<li>
+						<a href="?area=vendicaffitaly"> Ritiro in laboratorio </a>
+					</li>
+				</ul>
+			</div>
 		</li>
 		<li class="hidden">
 			<a href="?area=vendita"> Vendita e installazione </a>
