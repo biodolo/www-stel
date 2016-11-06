@@ -6,6 +6,7 @@ La professionalità e l'esperienza acquisita rappresentano un valido supporto, e
 che offriamo a tutti coloro che desiderano avere qualità e durata nel tempo dei propri elettrodomestici.
 </p>
 <br>
+
 <?php
 	$sections =[
 		[
@@ -18,11 +19,11 @@ che offriamo a tutti coloro che desiderano avere qualità e durata nel tempo dei
 			"titolo"		=> "ASCIUGABIANCHERIA",
 			"immagine"	=> "asciugatrice.jpg",
 			"content"		=> "asciugatrici.php"
-		],[
-			"id"			=> "lavastoviglie",
-			"titolo"		=> "LAVASTOVIGLIE",
-			"immagine"	=> "lavastoviglie.jpg",
-			"content"		=> "lavastoviglie.php"
+		//],[
+			//"id"			=> "lavastoviglie",
+			//"titolo"		=> "LAVASTOVIGLIE",
+			//"immagine"	=> "lavastoviglie.jpg",
+			//"content"		=> "lavastoviglie.php"
 		// ],[
 			// "id"			=> "frigoriferi",
 			// "titolo"		=> "FRIGORIFERI",
@@ -62,7 +63,7 @@ che offriamo a tutti coloro che desiderano avere qualità e durata nel tempo dei
 	];
 ?>
 
-<div class="suggerimenti">
+<div class="suggerimenti" style="width:99%">
 <?php
 
 	foreach ( $sections as $section) {

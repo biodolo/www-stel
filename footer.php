@@ -11,7 +11,7 @@
 	<div id="footmen">
 		<ul>
 			<li>
-				<a href="?area=privacy" title="privacy">Privacy</a>
+				<a href="PRIVACY.pdf" target="_blank" title="privacy">Privacy</a>
 			</li>
 			<li>
 				<a href="?area=chi_siamo" title="chi siamo">La nostra azienda</a>
