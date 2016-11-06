@@ -26,7 +26,7 @@
 						<a href="?area=amodomio"> Lavazza A Modo Mio </a>
 					</li>
 					<li>
-						<a href="?area=vendiamodomio"> Il caff&eacute; compatibile A Modo Mio </a>
+						<a href="?area=vendiamodomio"> Il caff&eacute; A Modo Mio </a>
 					</li>
 				</ul>
 			</div>
@@ -43,10 +43,10 @@
 						<div class="menu , submenu">
 				<ul class="vocimenu">
 					<li>
-						<a href="?area=caffitaly"> Assistenza a domicilio </a>
+						<a href="?area=domicilio"> Assistenza a domicilio </a>
 					</li>
 					<li>
-						<a href="?area=vendicaffitaly"> Ritiro in laboratorio </a>
+						<a href="?area=laboratorio"> Ritiro in laboratorio </a>
 					</li>
 				</ul>
 			</div>

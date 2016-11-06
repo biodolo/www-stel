@@ -4,10 +4,10 @@ Caffitaly ha scelto torrefattori d’eccellenza e un’azienda leader nella lavo
 Tante differenti miscele di caff&egrave; selezionate tra le tipologie pi&ugrave; qualificate provenienti da diverse aree geografiche, ed inoltre ginseng, orzo, bevande al cacao e a base di latte, camomilla, tea e tisane: una gamma completa pensata per soddisfare ogni esigenza.  
 </p>
 
-<img code="ecaffe" src="<?php echo $base; ?>images/ecaffe.jpg" style="float:right;margin-right:2em;">
-<img code="caffita" src="<?php echo $base; ?>images/caffcuba.jpg" style="float:left;">
-<img code="cagliari" src="<?php echo $base; ?>images/cagliari.jpg" style="float:right;margin-right:5em;">
-<img code="chiccodoro" src="<?php echo $base; ?>images/chiccodoro.jpg" style="float:left;">
+<img code="ecaffe" src="<?php echo $base; ?>images/ecaffe.jpg" style="float:left;width:20%;">
+<img code="caffita" src="<?php echo $base; ?>images/caffcuba.jpg" style="float:left;width:20%;">
+<img code="cagliari" src="<?php echo $base; ?>images/cagliari.jpg" style="float:left;width:20%;">
+<img code="chiccodoro" src="<?php echo $base; ?>images/chiccodoro.jpg" style="float:left;width:20%;">
 
 <span style="clear:both"/>
 <div class="cialde">
@@ -40,3 +40,5 @@ $(document).ready(function(){
 	});
 });
 </script>
+<?php include 'promo.php' ?> 
+
