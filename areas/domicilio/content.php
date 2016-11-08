@@ -9,7 +9,7 @@
     <a href="http://www.franke.com/kitchensystems/it/it/home.html" target="_blank"><img src="<?php echo $base; ?>images/franke.gif"></a>
     <a href="http://www.faberspa.com/" target="_blank"><img src="<?php echo $base; ?>images/faber.png"></a>
     <a href="http://www.lofra.it/" target="_blank"><img src="<?php echo $base; ?>images/lofra.jpg"></a>
-    <a href="http://www.alpesinox.com/" target="_blank"><img src="<?php echo $base; ?>images/alpes.jpg"></a>
+    <a href="http://www.alpesinox.com/" target="_blank"><img src="<?php echo $base; ?>images/alpes.gif"></a>
 </div>
 </p>
 <p>
