@@ -41,13 +41,21 @@
 		<code>ecaffe</code>
 	</product>
 	<product>
-		<image>teafoglia.jpg</image>
-		<title>Tea in foglie</title>
-		<description>Miscela superiore di tea in foglie proveniente dalle piantagioni del Kenya.
-			Dall’aroma ricco e deciso, si consiglia di gustarlo in tazze dalle ampie dimensioni e dal bordo spesso.
-			Ogni confezione è composta da 10 capsule monodose contenenti 2,5 grammi di prodotto.</description>
+		<image>ganoderma.jpg</image>
+		<title>Caffè verde e Ganoderma</title>
+		<description>L’aroma intenso dei chicchi di caffè verde incontra l’antico gusto del Ganoderma, fungo utilizzato nella medicina cinese da più di 4.000 anni grazie alle sue molteplici proprietà benefiche.
+			Ogni confezione è composta da 10 capsule monodose contenenti 14,5 grammi di prodotto.</description>
 		<code>ecaffe</code>
 	</product>
+	<product>
+		<image>americano.jpg</image>
+		<title>Originale americano</title>
+		<description>Miscela di diverse qualità dei più pregiati caffè Arabica che gli donano un aroma inconfondibile.
+			Un piacere lungo da sorseggiare durante tutta la giornata dato il gusto unico e il corpo leggero. 
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>ecaffe</code>
+	</product>
+
 	<product>
 		<image>cuba.jpg</image>
 		<title>Monorigine CUBA special edition</title>
@@ -57,9 +65,25 @@
 		<code>caffita</code>
 	</product>
 	<product>
+		<image>brasile.jpg</image>
+		<title>Monorigine BRASILE special edition</title>
+		<description>Le costanti piogge estive e gli inverni secchi offrono le condizioni perfette alla produzione di questa pregiata miscela di 100% arabica alta Mogiana, nata ad alta quota dalle migliori piantagioni brasiliane.
+			La corposità importante, il suo gusto dolce, l’acidità fine e l’aroma fruttato con sentori di mandorla, nocciola e cacao rendono questo espresso il compagno ideale di ogni pausa caffè.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>caffita</code>
+	</product>
+
+	<product>
 		<image>elite.jpg</image>
 		<title>Elite 100% Arabica</title>
 		<description>100% di pregiate qualità Arabica, centroamericane e brasiliane, a basso contenuto di caffeina per una miscela di caffè leggera, corposa nel gusto e ricca nell'aroma.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>cagliari</code>
+	</product>
+	<product>
+		<image>silver.jpg</image>
+		<title>Silver</title>
+		<description>Una selezione speciale delle migliori origini, per una miscela di caffè perfettamente equilibrata e ricca nel gusto e nell’aroma.
 			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
 		<code>cagliari</code>
 	</product>
