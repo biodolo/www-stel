@@ -10,9 +10,6 @@
 			<a href="?area=offerte"> Le nostre offerte </a>
 		</li>
 		<li>
-			<a href="?area=accessori"> Accessori e prodotti </a>
-		</li>
-		<li>
 			<a href="?area=caffe"> Il caff&eacute; da noi </a>
 			<div class="menu , submenu">
 				<ul class="vocimenu">
@@ -31,12 +28,27 @@
 				</ul>
 			</div>
 		</li>
+		<li>
+			<a href="?area=accessori"> Accessori e prodotti </a>
+		</li>
+				<li>
+			<a href="?area=folletto"> Il mondo Folletto </a>
+						<div class="menu , submenu">
+				<ul class="vocimenu">
+					<li>
+						<a href="?area=originali"> Accessori originali </a>
+					</li>
+					<li>
+						<a href="?area=compatibili"> Accessori compatibili </a>
+					</li>
+				</ul>
+			</div>
+			
+		</li>
 		<li class="hidden">
 			<a href="?area=cura"> Cura e manutenzione </a>
 		</li>
-		<li class="hidden">
-			<a href="?area=folletto"> Originali Folletto </a>
-		</li>
+
 
 		<li>
 			<a href="?area=servizi"> Servizi di Assistenza </a>

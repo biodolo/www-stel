@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+	<product>
+		<image>ginseng.jpg</image>
+		<title>Ginseng</title>
+		<description>L’aroma del caffè incontra la vitalità del Ginseng per darti la giusta energia in ogni momento della giornata.
+			Ogni confezione è composta da 10 capsule monodose contenenti 12 grammi di prodotto.
+			Ingredienti: Zucchero, latte scremato in polvere, lattosio, caffè istantaneo, ginseng in polvere (0,3%), aromi.</description>
+		<code>ecaffe</code>
+	</product>
+	<product>
+		<image>delicato.jpg</image>
+		<title>Delicato</title>
+		<description>Espresso decaffeinato dal gusto pieno e vellutato che mantiene inalterato l’aroma intenso del caffè.
+			Da gustarsi in qualsiasi momento dato il ridotto apporto di caffeina non superiore a 0,1%.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>ecaffe</code>
+	</product>
+	<product>
+		<image>corposo.jpg</image>
+		<title>Corposo</title>
+		<description>Miscela di Robusta asiatica dal temperamento forte e deciso, addolcita dall’intervento dell’Arabica che ne esalta l’aromaticità.
+			Perfetto da bere per ottenere la giusta carica di energia.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>ecaffe</code>
+	</product>
+	<product>
+		<image>prezioso.jpg</image>
+		<title>Prezioso 100% Arabica</title>
+		<description>Espresso di pura Arabica dal sapore pieno del caffè centro-sudamericano, ha una gradevole ed equilibrata ricchezza di aromi.
+			Da gustarsi durante tutta la giornata dato il basso tenore di caffeina.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>ecaffe</code>
+	</product>
+	<product>
+		<image>morbido.jpg</image>
+		<title>Morbido</title>
+		<description>L’attenta selezione delle migliori origini di Arabica e Robusta donano a questa miscela un gusto armonioso e rotondo.
+			Ottimo da bere da solo, perfetto come base per cappuccino ed altre ricette al caffè.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>ecaffe</code>
+	</product>
+	<product>
+		<image>ganoderma.jpg</image>
+		<title>Caffè verde e Ganoderma</title>
+		<description>L’aroma intenso dei chicchi di caffè verde incontra l’antico gusto del Ganoderma, fungo utilizzato nella medicina cinese da più di 4.000 anni grazie alle sue molteplici proprietà benefiche.
+			Ogni confezione è composta da 10 capsule monodose contenenti 14,5 grammi di prodotto.</description>
+		<code>ecaffe</code>
+	</product>
+	<product>
+		<image>americano.jpg</image>
+		<title>Originale americano</title>
+		<description>Miscela di diverse qualità dei più pregiati caffè Arabica che gli donano un aroma inconfondibile.
+			Un piacere lungo da sorseggiare durante tutta la giornata dato il gusto unico e il corpo leggero. 
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>ecaffe</code>
+	</product>
+
+	<product>
+		<image>cuba.jpg</image>
+		<title>Monorigine CUBA special edition</title>
+		<description>Espresso della pregiata qualità 100% Arabica Criollo, originaria della catena montuosa della Sierra Maestra, CUBA.
+			Dall’aroma intenso e dalla corposità importante, si presenta in tazza con un gusto leggero ed equilibrato, addolcito da una nota di cacao e tabacco da pipa.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>caffita</code>
+	</product>
+	<product>
+		<image>brasile.jpg</image>
+		<title>Monorigine BRASILE special edition</title>
+		<description>Le costanti piogge estive e gli inverni secchi offrono le condizioni perfette alla produzione di questa pregiata miscela di 100% arabica alta Mogiana, nata ad alta quota dalle migliori piantagioni brasiliane.
+			La corposità importante, il suo gusto dolce, l’acidità fine e l’aroma fruttato con sentori di mandorla, nocciola e cacao rendono questo espresso il compagno ideale di ogni pausa caffè.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>caffita</code>
+	</product>
+
+	<product>
+		<image>elite.jpg</image>
+		<title>Elite 100% Arabica</title>
+		<description>100% di pregiate qualità Arabica, centroamericane e brasiliane, a basso contenuto di caffeina per una miscela di caffè leggera, corposa nel gusto e ricca nell'aroma.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>cagliari</code>
+	</product>
+	<product>
+		<image>silver.jpg</image>
+		<title>Silver</title>
+		<description>Una selezione speciale delle migliori origini, per una miscela di caffè perfettamente equilibrata e ricca nel gusto e nell’aroma.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>cagliari</code>
+	</product>
+	<product>
+		<image>grandespresso.jpg</image>
+		<title>Grand Espresso</title>
+		<description>Un elevato contenuto di pregiate qualità Arabica, selezionate secondo antiche ricette, per una miscela di caffè superiore, dolce nel gusto e delicata nell'aroma.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>cagliari</code>
+	</product>
+	<product>
+		<image>cremespresso.jpg</image>
+		<title>Crem Espresso</title>
+		<description>Pregiate qualità Arabica, arricchite da Robusta accuratamente selezionate, per una miscela di caffè piena nel gusto e intensa nell'aroma.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>cagliari</code>
+	</product>
+	<product>
+		<image>orzo.jpg</image>
+		<title>Orzo</title>
+		<description>L’equilibrata miscela di orzo mondo e orzo vestito distico permette di ottenere una bevanda particolarmente fragrante e saporita.
+			Ogni confezione è composta da 10 capsule monodose contenenti 7,5 grammi di orzo tostato e macinato.</description>
+		<code>cagliari</code>
+	</product>
+	<product>
+		<image>tealimone.jpg</image>
+		<title>Tea al limone</title>
+		<description>La perfetta combinazione delle più pregiate miscele di tea garantisce un infuso dall’aroma inconfondibile, piuttosto fresco e dissetate.
+			Ogni confezione è composta da 10 capsule monodose contenenti 11 grammi di prodotto.</description>
+		<code>cagliari</code>
+	</product>
+	<product>
+		<image>camomilla.jpg</image>
+		<title>Camomilla</title>
+		<description>Una sapiente selezione di fiori di camomilla dà vita ad un infuso piacevolmente aromatico e delicato, dalle virtù benefiche e rilassanti.
+			Ogni confezione è composta da 10 capsule monodose contenenti 10 grammi di prodotto.</description>
+		<code>cagliari</code>
+	</product>
+	<product>
+		<image>cioco.jpg</image>
+		<title>Cioco Passion</title>
+		<description>Bevanda gustosa e vellutata, che con il suo delizioso profumo vi terrà compagnia nei momenti di relax e dolcezza.
+			Ogni confezione è composta da 10 capsule monodose contenenti 15 grammi di prodotto.</description>
+		<code>cagliari</code>
+	</product>
+	
+	
+	<product>
+		<image>creme.jpg</image>
+		<title>Caffè Crème</title>
+		<description>Caffè Crème è una miscela composta dai migliori caffè del centro America. 
+			La speciale lavorazione e l’apposita macinatura conferiscono a questo caffè in capsule un aroma delicato e cremoso mantenendo il tipico gusto di un Caffè Chicco d’Oro. 
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.
+			</description>
+		<code>chiccodoro</code>
+	</product>
+	<product>
+		<image>espresso.jpg</image>
+		<title>Espresso Italiano</title>
+		<description>La sapiente miscela di Arabica e Robusta di eccellente qualità, rappresenta il segreto della perfetta preparazione del caffè espresso italiano. 
+			La tipica tostatura lenta, risalta le proprietà organolettiche e permette di sviluppare pienamente i principi aromatici del caffè: un aroma esotico e corposo. 
+			La gustosa crema ottenuta rappresenta un vero piacere del palato.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>chiccodoro</code>
+	</product>
+	<product>
+		<image>tradition.jpg</image>
+		<title>Tradition 100% Arabica</title>
+		<description> La tradizione si esprime pienamente in questa miscela di caffè 100% Arabica di qualità superiore. 
+			La tostatura fine conferisce aroma delicato e gradevole, retrogusto persistente. Una specialità da intenditori.
+			Si consuma con piacere durante tutto l’arco della giornata.			
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>chiccodoro</code>
+	</product>
+	<product>
+		<image>espressobar.jpg</image>
+		<title>Espresso Bar 100% Arabica</title>
+		<description>Nobile miscela 100% Arabica per il perfetto espresso.  
+			Cremoso, vellutato, gusto forte e pulito ed aroma intenso. Composto da selezionate varietà di pregiato caffè proveniente da piantagioni di altura. 
+			Origine: centro-sud America, Asia.
+			Ogni confezione è composta da 10 capsule monodose contenenti 8 grammi di caffè torrefatto e macinato.</description>
+		<code>chiccodoro</code>
+	</product>
+
+</products> 
