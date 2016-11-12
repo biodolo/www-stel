@@ -1,6 +1,6 @@
 <h2>RICAMBI E ACCESSORI ORIGINALI FOLLETTO</h2>
 <p>
- I Ricambi Originali Vorwerk Folletto garantiscono la perfetta efficienza degli apparecchi, in particolare del sistema di filtraggio, per mantenere elevate performance di qualità. 
+ I Ricambi Originali Vorwerk Folletto garantiscono la perfetta efficienza degli apparecchi, in particolare del sistema di filtraggio, per mantenere elevate performance di qualit&agrave;.<br> 
 Nel nostro negozio potete trovare un vasto assortimento di accessori e ricambi originali Vorwerk Folletto.
 </p>
 
