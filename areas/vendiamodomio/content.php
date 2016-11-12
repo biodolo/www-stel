@@ -1,6 +1,6 @@
 <h2>Capsule compatibili con Lavazza A Modo Mio</h2>
 <p>
-Le capsule compatibili Lavazza a Modo Mio offrono la possibilità di scegliere, 
+Le capsule compatibili Lavazza a Modo Mio offrono la possibilit&amp;agrave; di scegliere, 
 in ogni momento della giornata, l’aroma che preferisci per un risultato in tazza a casa, come al bar. 
 Nel nostro negozio ti offriamo capsule compatibili Lavazza a Modo Mio delle migliori torrefazioni
  in un'ampia scelta di miscele adatte a soddisfare tutti i palati.

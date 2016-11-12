@@ -2,8 +2,8 @@
 <br>
 <p>
 I nostri tecnici sono formati, e si tengono in costante aggiornamento, presso le aziende per cui lavorano. 
-La professionalità e l'esperienza acquisita rappresentano un valido supporto, e la miglior garanzia, 
-che offriamo a tutti coloro che desiderano avere qualità e durata nel tempo dei propri elettrodomestici.
+La professionalit&amp;agrave; e l'esperienza acquisita rappresentano un valido supporto, e la miglior garanzia, 
+che offriamo a tutti coloro che desiderano avere qualit&amp;agrave; e durata nel tempo dei propri elettrodomestici.
 </p>
 <br>
 
