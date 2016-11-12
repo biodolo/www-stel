@@ -5,7 +5,7 @@
 	</center>
 	<br>
 <p>
-	Presso il nostro negozio trovera ricambi e accessori compatibili con qualit&agrave; paragonabile all'originale ad un prezzo particolarmente conveniente.
+	Presso il nostro negozio troverai ricambi e accessori compatibili con qualit&agrave; paragonabile all'originale ad un prezzo particolarmente conveniente.
 	<br>
 	<div class="logo-group" style="text-align:center">
 		<img src="/areas/compatibili/images/filterplus.jpg">
