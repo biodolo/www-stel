@@ -2,8 +2,8 @@
 <br>
 <p>
 I nostri tecnici sono formati, e si tengono in costante aggiornamento, presso le aziende per cui lavorano. 
-La professionalit&amp;agrave; e l'esperienza acquisita rappresentano un valido supporto, e la miglior garanzia, 
-che offriamo a tutti coloro che desiderano avere qualit&amp;agrave; e durata nel tempo dei propri elettrodomestici.
+La professionalit&agrave; e l'esperienza acquisita rappresentano un valido supporto, e la miglior garanzia, 
+che offriamo a tutti coloro che desiderano avere qualit&agrave; e durata nel tempo dei propri elettrodomestici.
 </p>
 <br>
 
@@ -19,11 +19,11 @@ che offriamo a tutti coloro che desiderano avere qualit&amp;agrave; e durata nel
 			"titolo"		=> "ASCIUGABIANCHERIA",
 			"immagine"	=> "asciugatrice.jpg",
 			"content"		=> "asciugatrici.php"
-		//],[
-			//"id"			=> "lavastoviglie",
-			//"titolo"		=> "LAVASTOVIGLIE",
-			//"immagine"	=> "lavastoviglie.jpg",
-			//"content"		=> "lavastoviglie.php"
+		],[
+			"id"			=> "lavastoviglie",
+			"titolo"		=> "LAVASTOVIGLIE",
+			"immagine"	=> "lavastoviglie.jpg",
+			"content"		=> "lavastoviglie.php"
 		// ],[
 			// "id"			=> "frigoriferi",
 			// "titolo"		=> "FRIGORIFERI",

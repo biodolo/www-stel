@@ -60,6 +60,9 @@
 					<li>
 						<a href="?area=laboratorio"> Ritiro in laboratorio </a>
 					</li>
+					<li>
+						<a href="?area=chiediassistenza">Chiedere assistenza</a>
+					</li>
 				</ul>
 			</div>
 		</li>

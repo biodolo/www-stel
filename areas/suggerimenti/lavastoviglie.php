@@ -1,167 +1,361 @@
-<h3>Uso quotidiano</h3>
+<h3>DETERSIVO</h3>
 <div>
-	<p> Controllare se e necessario aggiungere sale e brillantante.
-Sistemare le posate e le stoviglie nella lavastoviglie.
-Aggiungere il detersivo nel contenitore apposito.
-Selezionare il programma di lavaggio idoneo alla tipologia di stoviglie e sporco.
-Avviare il programma di lavaggio.
+	<br>
+	<b>Il contenitore del detersivo non si chiude</b>
+	<p>
+		Richiedere l'intervento di un tecnico che venga a risolvere il problema a domicilio.
+	</p>
+	<br>
+	<b>Il contenitore del detersivo non si apre completamente</b>
+	<p>
+		&Egrave; possibile che ci sia qualcosa sul cestello superiore (ad esempio profumatori o prodotti anticorrosivi per vetro) che impedisce l'apertura corretta del contenitore del detersivo.
+		Tuttavia su molti modelli di lavastoviglie il contenitore detersivo si apre completamente solo aprendo lo sportello a fine lavaggio.
+	</p>
+	<br>
+	<b>La pastiglia non si scioglie</b>
+	<p>
+		Le pastiglie usate non si sciolgono correttamente?
+		&Egrave; possibile che la pastiglia non fuoriesca adeguatamente dal dosatore o non al momento giusto.
+		Controllare se c'&egrave; qualcosa che la ostruisce.
+		Si consiglia inoltre di usare detersivo in polvere.
+		Contattare il produttore del detersivo o consultarne il sito web, se necessario.
+		Le vecchie apparecchiature utilizzano pi&ugrave; acqua facendo sciogliere la pastiglia pi&ugrave; rapidamente.
+		La quantit&agrave; ottimale di detersivo, sale e brillantante dipende in parte dalla durezza e dalla quantit&agrave; d'acqua usata.
+	</p>
+	<br>
+	<b>I risultati del lavaggio non sono soddisfacenti</b>
+	<p>
+		<ul>
+			<li>
+				Mulinello bloccato?
+				Controllare se il mulinello (superiore o inferiore) pu&ograve; ruotare liberamente e che non sia bloccato.
+				Un mulinello pu&ograve; anche bloccarsi internamente, non girando pi&ugrave; e non erogando pi&ugrave; acqua.
+				Questo di solito &egrave; la conseguenza di un posizionamento scorretto del filtro, si pu&ograve; provare anche usando uno stecchino per sbloccare i fori degli spruzzi.
+			</li>
+			<li>
+				Installata di recente?
+				Generalmente si tratta di una causa tecnica.
+				Si consiglia di fare una prova usando un programma Intensivo, seguendo le istruzioni per il carico indicate nel manuale delle istruzioni, eliminando la maggior parte dei residui di cibo ed effettuando un programma ammollo se non si esegue subito un ciclo di lavaggio.
+			</li>
+			<li>
+				La temperatura aumenta?
+				Pulire entrambi i filtri interni ed effettuare una prova con un programma da 65° o 70 °C.
+				Se le stoviglie non sono calde dopo la fine di un programma da 65 °C o 70 °C, &egrave; presente un problema tecnico. &Egrave; pertanto necessario l'intervento di un tecnico.
+			</li>
+			<li>
+				Problema con i bicchieri?
+				La corrosione e i graffi del vetro sono causati dalla combinazione di vetro, calore e detersivo.
+				Occorrerebbe usare sempre il programma specifico per il vetro. Fare riferimento alle istruzioni del produttore relative al detersivo.
+			</li>
+		</ul>
+	</p>
+</div>
+<h3>FUNZIONAMENTO</h3>
+<div>
+	<br>
+	<b>L'INTERRUTTORE ON/OFF &Egrave; DANNEGGIATO</b>
+	<p>
+		Richiedere l'intervento di un tecnico che venga a risolvere il problema a domicilio.
+	</p>
+	<br>
+	<b>NON SI AVVIA O NON SI RIESCE AD IMPOSTARLA</b>
+	<p>
+		Le cause possibili sono:
+		<ul>
+			<li>
+				Lavastoviglie non collegata, assenza di corrente elettrica o fusibile bruciato.
+				Verificare che la lavastoviglie sia collegata e riceva corrente elettrica. Controllare anche che i fusibili siano tutti in ottime condizioni.
+			</li>
+			<li>
+				Assenza di erogazione d'acqua o bassa pressione dell'acqua in ingresso.
+				Controllare che ci sia acqua nella rete idrica, aprendo un rubinetto. Se dal vostro rubinetto l'acqua viene erogata con una buona pressione, controllare che il rubinetto della lavastoviglie sia completamente aperto.
+			</li>
+			<li>
+				Selezionata partenza ritardata o programma ancora in esecuzione.
+				Se si seleziona la partenza ritardata o se il programma &egrave; ancora in esecuzione, prima di effettuare una nuova selezione &egrave; necessario annullare le impostazioni precedenti.
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b>SI ARRESTA DURANTE IL PROGRAMMA</b>
+	<p>
+		Le cause possibili sono:
+		<ul>
+			<li>
+				Se non vi &egrave; alcuna spia LED programmi accesa, la lavastoviglie potrebbe non essere collegata, potrebbe non ricevere corrente elettrica o &egrave; possibile che un fusibile si sia bruciato.
+				Verificare che la lavastoviglie sia collegata e riceva corrente elettrica.
+				Controllare anche che i fusibili siano tutti in ottime condizioni.
+			</li>
+			<li>
+				Il programma scelto ...
+				Su alcune lavastoviglie, &egrave; normale che il programma "Extra silent" o "Ciclo notturno" comprendano anche lunghe pause (pi&ugrave; di 20 min.).
+			</li>
+			<li>
+				Problema di scarico ...
+				A causa di un problema di scarico, la lavastoviglie si arresta durante il programma.
+				Leggere le informazioni sullo scarico relative alla risoluzione dei problemi pi&ugrave; comuni.
+			</li>
+			<li>
+				C'&egrave; qualche spia LED programmi accesa?
+				&Egrave; possibile che l'apparecchiatura stia ancora eseguendo un programma, per annullarlo procedere come descritto nel manuale delle istruzioni.
+			</li>
+		</ul>
+		<br>
+		<b>ASCIUGA MALE</b>
+	<p>
+		Il risultato dell'asciugatura deve essere valutato dalle stoviglie e dai bicchieri.
+		Gli oggetti in plastica come le posate e i contenitori e le parti in plastica dell'apparecchiatura rimango bagnati.
+		La plastica si asciuga rapidamente con conseguente formazione di condensa sulla propria superficie.
+		Le possibili cause di risultati di asciugatura insoddisfacente sono:
+		<ul>
+			<li>
+				Il programma scelto ...
+				L'asciugatura dei programmi ECO e BIO avviene passivamente e richiede quindi pi&ugrave; tempo; inoltre, i programmi da 30 minuti non dispongono di un ciclo di asciugatura finale. Fare la prova con un programma da 65 °C o 70 °C.
+			</li>
+			<li>
+				Assenza di brillantante o dosaggio di brillantante troppo basso ...
+				Si consiglia di aggiungere ulteriore brillantante o di regolarlo ad un livello pi&ugrave; alto, come descritto nel manuale delle istruzioni. Anche se si utilizzano le pastiglie 3 in 1 (MULTITAB), aggiungere separatamente il brillantante.
+			</li>
+			<li>
+				Le stoviglie lavate con detersivo liquido prima del lavaggio in lavastoviglie ...
+				Questo comporta un'eccessiva formazione di schiuma e pu&ograve; influire sul risciacquo.
+			</li>
+			<li>
+				Lavastoviglie sovraccarica, carico errato o scaricata troppo presto alla fine del ciclo ...
+				Caricare la lavastoviglie secondo le istruzioni riportate nel manuale delle istruzioni e alla fine del ciclo consentire all'acqua di risciacquo in eccesso di asciugarsi/evaporare prima di scaricare la lavastoviglie, tuttavia non lasciare la lavastoviglie carica troppo a lungo, poich&eacute; l'umidit&agrave; residua pu&ograve; far depositare nuovamente dell'acqua sulle stoviglie. Scaricare prima il cestello inferiore.
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b>NON SCALDA</b>
+	<p>
+		Pulire i filtri interni ed effettuare una prova con un programma a 65 °C o 70 °C.
+		Se le stoviglie non sono calde dopo la fine di un programma a 65 °C o 70 °C, &egrave; presente un problema tecnico. Il controllo e la riparazione devono essere eseguiti da un tecnico.
+	</p>
+	<br>
+	<b>NON SCARICA</b>
+	<p>
+		Le cause possibili sono:
+		<ul>
+			<li>
+				I filtri non sono puliti ...
+				Pulire i filtri della lavastoviglie seguendo le istruzioni riportate nel manuale delle istruzioni.
+			</li>
+			<li>
+				Il tubo di scarico &egrave; strozzato o piegato...
+				Verificare che il tubo di scarico non sia schiacciato o piegato. 
+			</li>
+			<li>
+				Il coperchio del sifone non &egrave; stato rimosso.
+				C'&egrave; normalmente una copertura nel sifone dello scarico (generalmente blu) oppure un disco nel collegamento dello scarico. Rimuoverli.
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b>SCARICA SOLO ACQUA</b>
+	<p>
+		Se sul fondo della macchina &egrave; presente dell'acqua &egrave; necessario contattare il tecnico.
+	</p>
+	<br>
+	<b>EMETTE UN RUMORE INSOLITO</b>
+	<p>
+		Le cause potrebbero essere molteplici ...
+		<ul>
+			<li>
+				Si sentono ronzzi subito dopo l'avvio?
+				&Egrave; normale che la lavastoviglie inizi un programma di lavaggio eseguendo uno scarico dell'acqua.
+			</li>
+			<li>
+				Colpi forti o battiti?
+				Sono dovuti all'apertura del contenitore del detersivo nella lavastoviglie, che sbatte con forza contro lo sportello.
+			</li>
+			<li>
+				Si sentono dei bip durante il funzionamento della pompa?
+				Al successivo utilizzo, aggiungere un goccia di detersivo liquido (non troppo!) nel dosatore, in modo tale che il meccanismo della pompa venga lubrificato ed il rumore dovrebbe scomparire. 
+			</li>
+			<li>
+				Battiti durante la fase di asciugatura?
+				L'apparecchiatura ha un problema tecnico, probabilmente dovuto alla ventola turbo. Il controllo e la riparazione devono essere eseguiti da un tecnico.
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b>PERDE ACQUA</b>
+	<p>
+		Verificare che non ci siano ostruzioni nello scarico. 
+		Verificare inoltre che il tubo di carico e la sua ghiera filettata siano stati montati correttamente.
+	</p>
+</div>
+<h3>ERRORI SUL DISPLAY</h3>
+<div>
+	<b>IL LED PROGRAMMI LAMPEGGIA</b>
+	<p>
+		&eErave; possibile che l'apparecchiatura stia ancora eseguendo un programma, per annullarlo procedere come descritto nel manuale delle istruzioni.
+	</p>
+	<br>
+	<b>SUL DISPLAY APPARE L'ERRORE I30</b>
+	<p>
+		Se c'&egrave; acqua sul fondo della macchina e sul display compare l'errore "i30" occorre contattare un tecnico.
+	</p>
+	<br>
+	<b>SUL DISPLAY APPARE L'ERRORE I20</b>
+	<p>
+		Sul display appare l'errore "i20" quando la lavastoviglie non scarica l'acqua, e le possibili cause sono:
+		<ul>
+			<li>
+				I filtri non sono puliti ...
+				Pulire i filtri della lavastoviglie seguendo le istruzioni riportate nel manuale delle istruzioni.
+			</li>
+			<li>
+				Il coperchio del sifone non &egrave; stato rimosso ...
+				C'&egrave; normalmente una copertura nel sifone dello scarico (generalmente blu) oppure un disco nel collegamento dello scarico. Rimuoverli.
+			</li>
+			<li>
+				Il tubo di scarico è strozzato o piegato ...
+				Verificare che il tubo di scarico non sia schiacciato o piegato.
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b>IL PRIMO LED LAMPEGGIA</b>
+	<p>
+		Si tratta di un errore che si verifica quando la lavastoviglie non carica acqua, e le possibili cause sono:
+		<ul>
+			<li>
+				Assenza di erogazione d'acqua o bassa pressione dell'acqua in ingresso.
+				Controllare che ci sia acqua nella rete idrica, aprendo un rubinetto.
+				Se dal vostro rubinetto l'acqua viene erogata con una buona pressione, controllare che il rubinetto della lavastoviglie sia completamente aperto.
+			</li>
+			<li>
+				Si &egrave; verificato un problema sul rubinetto oppure il tubo di carico &egrave; strozzato o piegato.
+				Verificare che entri acqua dal rubinetto della lavastoviglie e che il tubo di carico non sia strozzato o piegato. 
 
-Non lavare in lavastoviglie spugne, strofinacci da cucina e tutti gli oggetti che possano assorbire acqua.
-Prima di sistemare le stoviglie occorre:
-- Rimuovere tutti i residui di cibo.
-- Lasciare in ammollo le pentole a cui aderiscono resti di cibo bruciati.
-Quando sistemate le stoviglie e le posate osservate quanto segue:
-- Le stoviglie e le posate non devono impedire ai mulinelli di girare liberamente.
-- I recipienti cavi come le tazze, i bicchieri, le pentole etc. devono essere sistemati con l'apertura rivolta verso il   basso, affinche non si raccolga acqua nelle cavita o nei fondi bombati.
-- Le stoviglie e le posate non devono essere poste le une dentro le altre ne coprirsi a vicenda.
-- Onde evitare di rompere il vetro, i bicchieri non devono toccarsi.
-- Riporre i piccoli oggetti nel cestello posate.
-Le stoviglie in plastica e i tegami in materiale antiaderente tendono a trattenere maggiormente le gocce d’acqua: il grado di asciugatura di queste stoviglie &amp;egrave; pertanto inferiore rispetto alle porcellane e all’acciaio.
-
-Per il lavaggio in lavastoviglie, le seguenti posate/stoviglie sono non idonee
- Posate con manici in legno, osso, porcellana o madreperla.
- Parti in plastica non resistenti alle alte temperature.
- Posate antiche o vecchie con collante sensibile alle alte temperature.
- Stoviglie oppure posate con parti incollate.
- Oggetti in stagno e in rame.
- Cristallo al piombo.
- Parti in acciaio non inossidabili.
- Taglieri e vassoi in legno.
- Oggetti di artigianato.
-limitatamente idonee
- Lavare in lavastoviglie le terraglie soltanto se il produttore ne indica espressamente l'idoneita al lavaggio in     lavastoviglie.
- Dopo lavaggi ripetuti in lavastoviglie, le decorazioni non smaltate potrebbero sbiadire.
- Con il lavaggio in lavastoviglie, le parti in argento e alluminio tendono a cambiare colore. Sull'fargento in    particolare, i residui di cibo, ad esempio albume, tuorlo d'uovo, senape etc. causano spesso scolorazioni o    macchie. Pertanto, se l'argento non viene lavato subito dopo l'uso, occorre togliere immediatamente i resti di    cibo.
- Dopo lavaggi ripetuti, alcuni tipi di vetro possono divenire opachi.
-
-Usare esclusivamente detersivi specifici per lavastoviglie. Non eccedere nell’uso di detersivo significa dare un contributo al contenimento dell’inquinamento ambientale. Il detersivo viene aggiunto prima di avviare un programma di lavaggio (il programma "Ammollo/Risciacquo" non necessita dell’aggiunta di detersivo). Siete pregati di osservare le istruzioni di dosaggio e di conservazione fornite dal produttore del detersivo e riportate sulla confezione.
-Consigli per l’utilizzo dei detersivi in pastiglie
-I detersivi in pastiglie dei vari produttori si sciolgono a velocit&amp;agrave; diversa, pertanto durante i programmi brevi alcune pastiglie non sono in grado di dissolversi completamente e di sprigionare tutta la propria forza pulente. Se utilizzate questi prodotti, vi consigliamo di scegliere i programmi più lunghi per garantire la completa eliminazione dei residui di detersivo. L’inserimento delle compresse direttamente in vasca o nel cestello delle posate dar&amp;agrave; luogo a risultati insoddisfacenti. Le pastiglie devono essere inserite nel contenitore del detersivo.
-Indicazioni generali per l'utilizzo dei detersivi 3 in 1
-Questi prodotti esercitano una funzione integrata e combinata di detersivo/brillantante e sale.
-1. Prima dell’uso, verificare che la durezza dell’acqua della rete di approvvigionamento sia compatibile con l’uso di questo prodotto secondo le istruzioni fornite dal produttore del detersivo (sulla confezione del prodotto).
-2. Questo prodotto deve essere usato osservando scrupolosamente le istruzioni fornite dal produttore del detersivo.
-3. In caso di problemi di cattivo lavaggio con l’utilizzo del detersivo "3 in 1", rivolgersi al produttore del detersivo (il numero telefonico per l’assistenza &amp;egrave; indicato sulla confezione del prodotto).
-</p>
+			</li>
+			<li>
+				&Egrave; presente un problema di scarico ...
+				A causa di un problema di scarico, la lavastoviglie non carica acqua e sul display appare Error i10. Leggere le informazioni sullo scarico relative alla risoluzione dei problemi pi&ugrave; comuni.
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b> IL SECONDO LED LAMPEGGIA </b>
+	<p>
+		Si tratta di un errore che si verifica quando la lavastoviglie non scarica l'acqua, e le possibili cause sono:
+		<ul>
+			<li>
+				I filtri non sono puliti ...
+				Pulire i filtri della lavastoviglie seguendo le istruzioni riportate nel manuale delle istruzioni.
+			</li>
+			<li>
+				Il coperchio del sifone non &egrave; stato rimosso.
+				C'&egrave; normalmente una copertura nel sifone dello scarico (generalmente blu) oppure un disco nel collegamento dello scarico. Rimuoverli.
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b>SUL DISPLAY APPARE L'ERRORE I10</b>
+	<p>
+		Sul display appare l'errore "i10" quando la lavastoviglie non carica acqua, e le possibili cause sono:
+		<ul>
+			<li>
+				Assenza di erogazione d'acqua o bassa pressione dell'acqua in ingresso ...
+				Controllare che ci sia acqua nella rete idrica, aprendo un rubinetto. Se dal vostro rubinetto l'acqua viene erogata con una buona pressione, controllare che il rubinetto della lavastoviglie sia completamente aperto.
+			</li>
+			<li>
+				Si &egrave; verificato un problema sul rubinetto oppure il tubo di carico &egrave; strozzato o piegato.
+				Verificare che entri acqua dal rubinetto della lavastoviglie e che il tubo di carico non sia strozzato o piegato.
+			</li>
+			<li>
+				Problema di scarico ...
+				A causa di un problema di scarico, la lavastoviglie non carica acqua e sul display appare l'errore "i10". Leggere le informazioni sullo scarico relative alla risoluzione dei problemi pi&ugrave;ù comuni.
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b>IL PROGRAMMA DURA TROPPO A LUNGO</b>
+	<p>
+		Le cause possibili sono:
+		<ul>
+			<li>
+				Il programma selezionato ...
+				L'asciugatura dei programmi ECO e BIO &egrave; passiva e richiede quindi pi&ugrave; tempo proprio perch&egrave; le stoviglie si asciugano in modo naturale. Si utilizzano pastiglie 3-in-1 (MULTITAB).
+				Per ottenere buoni risultati di lavaggio e asciugatura, il programma dura circa 20 minuti in pi&ugrave;, quando si usa la funzione pastiglia "3-in-1" (MULTITAB).
+			</li>
+			<li>
+				È presente un problema di scarico ...
+				A causa di un problema di scarico, il programma della lavastoviglie dura pi&ugrave; a lungo. Leggere le informazioni sullo scarico relative alla risoluzione dei problemi pi&ugrave; comuni
+			</li>
+		</ul>
+	</p>
+	<br>
+	<b>CORTO CIRCUITO</b>
+	<p>
+		Se un'altro elettrodomestico &egrave; in funzione, l'assorbimento totale potrebbe essere superiore all'energia disponibile.
+	</p>
+</div>
+<h3>PORTA</h3>
+<div>
+	<b>LA PORTA CADE</b>
+	<p>
+		Se si tratta di una lavastoviglie da incasso installata di recente &egrave; possibile che l'anta dello sportello sia troppo pesante.
+		In questo caso contattare l'installatore.
+		<br>
+		Se la lavastoviglie non &egrave; da incasso o l'installazione non &egrave; recente il controllo e la riparazione devono essere eseguiti da un tecnico.
+	</p>
+	<br>
+	<b>LA PORTA NON SI CHIUDE</b>
+	<p>
+		Le regolazioni della cerniera o della chiusura non sono corrette.
+		Ricontattare l'installatore dell'apparecchiatura per assicurarsi che la chiusura e lo sportello siano montati secondo le istruzioni d'installazione.
+	</p>
 </div>
 
-
-<h3>Manutenzione</h3>
+<h3> CATTIVI ODORI</h3>
 <div>
-	<p> Pulire le superfici esterne della lavastoviglie ed il pannello comandi con un panno umido e morbido usando, se necessario solo detergenti neutri. Non usare mai prodotti o mezzi abrasivi o solventi (acetone, trielina, etc.). Pulire le guarnizioni perimetrali di tenuta della porta e dei contenitori detersivo e brillantante con un panno umido. Consigliamo di eseguire, ogni tre mesi, un programma di lavaggio a 65°C senza stoviglie e con detersivo.
-
-Periodicmente &amp;egrave; necessario controllare e pulirle i filtri, poich&amp;egrave; filtri sporchi possono compromettere il buon risultato del lavaggio.
-Non usare mai prodotti o mezzi abrasivi o solventi (acetone). La lavastoviglie non deve essere mai usata senza filtri. Una ricollocazione non corretta dei filtri nella loro sede &amp;egrave; causa di cattivi risultati di lavaggio.
-
-Dovendo lasciare la lavastoviglie inattiva per lungo tempo &amp;egrave; consigliabile:
-1. Staccare i collegamenti elettrici ed idraulici.
-2. Lasciare la porta socchiusa per evitare il ristagno di cattivi odori.
-3. Lasciare l’interno della lavastoviglie pulito.
-
-
-Evitare di mettere la macchina in un ambiente dove la temperature &amp;egrave; inferiore a 0°C. Se ciò non &amp;egrave; possibile staccare e svuotare il tubo di carico acqua. Portare la lavastoviglie in un ambiente a temperatura superiore a 0°C prima di avviarla.
-</p>
+	<p>
+		&Egrave; possibile che le tubature per l'acqua interne siano sporche.
+		Si consiglia di usare regolarmente un programma ad alta temperatura in modo che l'apparecchiatura venga pulita internamente.
+		Se necessario, utilizzare un detergente per lavastoviglie specifico.
+		Se il problema persiste, il controllo e la riparazione devono essere eseguiti da un tecnico.
+	</p>
+	<div class="left-box">
+		<img src="areas/suggerimenti/degreaser.jpg"/>
+		<div class="text-box">
+			<p>
+				<br>
+				Tenete la lavastoviglie pulita e fresca per garantire risultati di lavaggio ottimali.
+				<br>
+				Questo sgrassante evita la formazione di cattivi odori causati da residui di cibo intrappolati. Rimuove i depositi di grasso e di cibo, pulendo la lavastoviglie in modo completo, anche nei punti non raggiungibili a mano.
+				<br>
+				Se usato regolarmente, mantiene pulito l'interno della lavastoviglie, garantendo condizioni di pulizia ottimali.
+				<br>
+				Dose singola da 200gr.
+			</p>
+		</div>
+	</div>
+	<div class="right-box">
+		<img src="areas/suggerimenti/cleancare.jpg"/>
+		<div class="text-box">
+			<br>
+			<p>
+				Sgrassa e decalcifica in un semplice passaggio: per tenere sempre pulite e funzionanti la lavatrice e la lavastoviglie, come se fossero nuove.
+				<br>
+				La rimozione delle formazioni di calcare non serve solo a garantire risultati di lavaggio ottimali, ma contribuisce significativamente ad allungare la durata di vita dell'elettrodomestico.
+				<br>
+				Questo decalcificante speciale, confezionato in singoli sacchetti monodose, rimuove in modo efficace il calcare e i depositi residui dall'apparecchiatura, lasciando tutte le componenti perfettamente pulite. Un uso mensile del decalcificante garantisce una corretta manutenzione, prestazioni ottimali, il tutto riducendo il consumo energetico.
+				<ul>
+					<li>Rimuove il calcare.</li>
+					<li>Evita la formazione di cattivi odori.</li>
+					<li>Riduce il consumo energetico.</li>
+					<li>Estende la durata di vita delle apparecchiature.</li>
+					<li>Ideale per le zone con acqua dura.</li>
+				</ul>
+				<br>
+				Ogni confezione contiene 10 sacchetti monodose da 50g.
+			</p>
+		</div>
+	</div>
+	<p>
+		Questo accade perch&egrave; le varie zone ricevono acqua da diverse sorgenti idriche, in funzione del consumo di corrente. Visitare il sito web del proprio ente locale di fornitura di servizi idrici per verificare l'attuale durezza dell'acqua presso la propria abitazione. Si consiglia di utilizzare l'anticalcare Electrolux. Insieme al prodotto vengono fornite le istruzioni per il dosaggio e il manuale delle istruzioni.
+	</p>
 </div>
-
-
-<h3>Perde acqua</h3>
-<div>
-	<p>Le perdite di acqua dalla lavastoviglie possono venire dalla macchina o dai tubi di carico.
-
-
-Controlla che il tubo di carico sia ben stretto sia dal lato rubinetto che dal lato lavastoviglie. Controlla anche che il tubo di scarico sia fissato bene al sifone e stretto con una fscetta(vedi il libretto di istruzione del tuo apparecchio). Se i tubi sono rotti contatta l´assistenza tecnica per la sostituzione.
-
-Controlla che lo sportello chiuda correttamente, senza fare attriti su uno dei due lati. Per compensare i dislivelli del pavimento svita i piedini regolabili con un utensile adatto. Verifica anche la disposizione delle stovigli, se troppo ingombranti potrebbero causare la non corretta chiusura della porta.
-
-Controlla di aver usato un detersivo per lavastoviglie e non per lavaggio a mano. In tal caso la macchina si riempie di schiuma facendo travasare acqua dalla porta. Se questo &amp;egrave; il problema fai un ciclo senza stoviglie, aggiungendo all´acqua del lavaggio un cuchiaio di olio per abbattere la schiuma.
-</p>
-</div>
-
-
-
-
-<h3>Non funziona</h3>
-<div>
-	<p> La lavastoviglie non si avvia
-La porta non &amp;egrave; chiusa bene. (Chiudere correttamente la porta.)
-La spina non &amp;egrave; inserita nella presa di corrente. (Inserire la spina nella presa di corrente.)
-Il fusibile dell’installazione domestica non funziona correttamente. (Sostituire il fusibile.)
-Per modelli di lavastoviglie con partenza ritardata: La partenza ritardata &amp;egrave; stata impostata. Se volete far partire immediatamente il programma di lavaggio occorrer&amp;agrave; cancellare la partenza ritardata.
-
-Sibilo durante il lavaggio
-Questo sibilo non &amp;egrave; motivo di preoccupazione, &amp;egrave; causato dal detersivo. (Utilizzare un’altra marca di detersivo.)
-
-Le stoviglie non sono pulite
- Non e stato selezionato il programma di lavaggio idoneo.
- Le stoviglie sono state sistemate in modo tale che l'acqua non poteva lambire tutte le parti. I cesti non devono     mai essere sovraccarichi.
- I mulinelli non girano perche bloccati da stoviglie caricate non correttamente.
- I filtri sul fondo della vasca sono sporchi oppure non sono stati installati correttamente.
- Non e stato utilizzato detersivo oppure ne e stato utilizzato troppo poco.
- In presenza di macchie di calcare sulle stoviglie, il contenitore del sale e vuoto oppure il decalcificatore della     lavastoviglie non e correttamente regolato.
- Il tubo di scarico non e installato correttamente.
- Il tappo del contenitore del sale non e chiuso bene.
-
-Le stoviglie sono bagnate e non brillano
- Non e stato utilizzato il brillantante.
- Il dispensatore di brillantante e vuoto.
-
-Su bicchieri e stoviglie si riscontrano striature, macchie lattiginose oppure riflessi bluastri
- Dosate una quantita inferiore di brillantante.
-
-Su bicchieri e stoviglie si riscontrano gli aloni lasciati dalle gocce d'acqua
- Dosate una quantita maggiore di brillantante.
- Il detersivo puo esserne la causa. Contattare la casa di produzione del detersivo.
-</p>
-</div>
-
-
-
-<h3>Stoviglie non pulite</h3>
-<div>
-	<p>Le stoviglie e le posate potrebbero non essere ben pulite a causa del loro mal posizionamento all´interno dei cesti.
-
-
-Assicurateti che piccoli oggetti come manici di posate, o oggetti ingombranti come vassoi, pentole o piatti molto grandi, non ostacolino il movimento dei mulinelli.
-
-Quando sistemate le stoviglie e le posate osservate quanto segue:
-- le stoviglie e le posate non devono impedire ai mulinelli di lavaggio di girare liberamente
-- i recipienti cavi come le tazze, i bicchieri, le pentole ecc. devono essere sistemati con l´apertura rivolta verso il basso, affinch&amp;egrave; non si raccolga acqua nelle cavit&amp;agrave; o nei fondi bombati
-- le stoviglie e le posate non devono essere poste le une dentro le altre n&amp;egrave; coprirsi a vicenda
-- onde evitare di rompere il vetro, i bicchieri non devono toccarsi - riponete i piccoli oggetti nel cestello posate.
-
-Posizionate correttamente le stoviglie all´interno della lavastoviglie, seguendo le istruzioni che trovate nel libretto di istruzione.
-</p>
-</div>
-
-
-
-<h3>Stoviglie bagnate</h3>
-<div>
-	<p>Alcune stoviglie, in particolare tazze e bicchieri, hanno superfici concave che trattengono acqua: &amp;egrave; un dato di fatto non risolvibile. Ti consigliamo di svuotare prima il cesto inferiore e controllare che il livello di brillantante sia adeguato
-
-
-Il dosaggio di brillantante va modificato solo se su bicchieri e stoviglie si formano striscie, macchie lattiginose o se sono visibili resti di acqua evaporata; ricorda che il dosaggio puo´ essere regolato da 1-6. Per modificare il dosaggio apri la porta della lavastoviglie, apri coperchio, o togli il tappo, del dispensatore brillantante a seconda dei modelli; imposta il dosaggio e richiudi il coperchio. Se dovesse essere fuoriusciuto del brillantante, sciacquarlo con un panno. Segui le indicazioni sul libretto di istruzione per maggiori informazioni; la regolazione media consigliata &amp;egrave; la seguente: - per lavastoviglie da 60 cm, posizione 3 o 4 - per lavastoviglie da 45 cm, posizione 2 o 3
-
-Controlla di non aver selezionato l'opzione asciugatura economica o esclusione asciugatura.
-
-Se le stoviglie rimangono a lungo nella lavastoviglie dopo il termine del lavaggio (caso del lavaggio notturno) il vapore residuo puo´ ricondensare sulle stoviglie.
-
-Socchiudi la porta al termine del programma.</p>
-</div>
-
-
-<h3>Patina bianca</h3>
-<div>
-	<p>Si nota una patina bianca sulle stoviglie e / o sull'interno della macchina
-
-
-L'inconveniente &amp;egrave; causato dall presenza di calcare nell'acqua di lavaggio.
-
-Ciò può essere dovuto alla mancanza di sale oppure alla scorretta regolazione del livello di rigenera.
-
-Rifornisci di sale il decalcificatore della tua lavastoviglie ricordando che immettendo sale &amp;egrave; normale che fuoriesca dell'acqua. Facendo riferimento al libretto istruzioni regola il livello di rigenre per adattarlo alla durezza dell'acqua della tua zona. Ricorda che il detersivo del tipo 3 in 1 può essre usato solo con macchine lavastoviglie dotate dell'apposito tasto, con tutte le altre si otterranno risultati insoddisfacenti. In ogni caso ricorda che usando detersivo 3 in 1 devi comunque rifornire di sale la tua lavastoviglie.
-</p>
-</div>
-
-
-
