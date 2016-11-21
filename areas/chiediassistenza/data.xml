@@ -1,9 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
 	<product>
+		<image>lavatrice.jpg</image>
+		<title>LAVATRICE</title>
+		<description>L'etichetta si trova aprendo l'oblò vicino alla guarnizione.</description>
+	</product>
+	<product>
+		<image>lavastoviglie.jpg</image>
+		<title>LAVASTOVIGLIE</title>
+		<description>L'etichetta si trova sul portellone, sul fianco destro.</description>
+	</product>
+	<product>
+		<image>asciugatrice.jpg</image>
+		<title>ASCIUGATRICE</title>
+		<description>L'etichetta si trova aprendo l'oblò vicino alla guarnizione.</description>
+	</product>
+	<product>
+		<image>pianocottura.jpg</image>
+		<title>PIANO COTTURA</title>
+		<description>L'etichetta si trova sotto il piano cottura.</description>
+	</product>
+	<product>
+		<image>forno.jpg</image>
+		<title>FORNO</title>
+		<description>L'etichetta si trova aprendo il portellone, su uno dei lati, vicino alla guarnizione.</description>
+	</product>
+	<product>
+		<image>cappa.jpg</image>
+		<title>CAPPA</title>
+		<description>L'etichetta si trova togliendo il vano filtro, sulla parete vicino al motore.</description>
+	</product>
+	<product>
+		<image>frigo.jpg</image>
+		<title>FRIGO</title>
+		<description>L'etichetta si trova togliendo il/i cassetto verdura, sulla parete sinistra del frigorifero.</description>
+	</product>
+	<product>
+		<image>congorizz.jpg</image>
+		<title>CONGELATORE ORIZZONTALE</title>
+		<description>L'etichetta si trova sul coperchio e si trova aprendo il congelatore, in basso a sinistra.</description>
+	</product>
+	<product>
+		<image>cucina.jpg</image>
+		<title>CUCINA ECONOMICA</title>
+		<description>L'etichetta si trova aprendo il portellone del forno, su uno dei lati, vicino alla guarnizione.</description>
+	</product>
+	<product>
 		<image>aspirapolvere.jpg</image>
 		<title>ASPIRAPOLVERE</title>
-		<description></description>
+		<description>L'etichetta si trova sotto l'aspirapolvere o nel lato posteriore della scocca.</description>
+	</product>
+	<product>
+		<image>microonde.jpg</image>
+		<title>FORNI A MICROONDE</title>
+		<description>L'etichetta si trova dietro il forno.</description>
 	</product>
 
 </products> 

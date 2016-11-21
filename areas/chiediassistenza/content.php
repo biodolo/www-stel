@@ -11,7 +11,7 @@ telefono: 0584 962801 - 0584 961718
 </p>
 <br>
 </center>
-<p>I dati da fornire relativi all'apparecchiatura possono essere individuati seguendo le istruzioni che seguono ... </p>
+<p>I dati da fornire relativi all'apparecchiatura possono essere individuati seguendo le istruzioni che seguono.</p>
 <?php
 $xml=simplexml_load_file($base . "data.xml") or die("Error: Cannot create object");
 $current=0;
